@@ -14,13 +14,13 @@ Native Buildpacks Family.
 - 🌱 I’m currently improving my Golang skills, since all the Buildpacks environment is written in Go.
 - 💻 In my spare time I like to solve competitive programming problems, watch series and play video games.
 
-### Some interested Buildpacks repos
+### Some interesting Buildpacks repos
 
 [![Go BP Card](https://github-readme-stats.vercel.app/api/pin/?username=paketo-buildpacks&repo=go&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Node BP Card](https://github-readme-stats.vercel.app/api/pin/?username=paketo-buildpacks&repo=nodejs&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Java BP Card](https://github-readme-stats.vercel.app/api/pin/?username=paketo-buildpacks&repo=java&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Some interested personal repos
+### Some interesting personal repos
 
 [![Go Apigee Card](https://github-readme-stats.vercel.app/api/pin/?username=brayanhenao&repo=go-apigee-edge)](https://github.com/anuraghazra/github-readme-stats)
 [![Competitive Programming Card](https://github-readme-stats.vercel.app/api/pin/?username=brayanhenao&repo=competitive-programming)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,11 +29,16 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/brayanhenao/github-config/pull/1) in [brayanhenao/github-config](https://github.com/brayanhenao/github-config)
-2. 💪 Opened PR [#4237](https://github.com/education/GitHubGraduation-2021/pull/4237) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-3. 💪 Opened PR [#76](https://github.com/paketo-buildpacks/stack-usns/pull/76) in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
-4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4) in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
-5. 💪 Opened PR [#4](https://github.com/paketo-community/conda-env-update/pull/4) in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
+1. 💪 Opened PR [#1](https://github.com/brayanhenao/github-config/pull/1)
+   in [brayanhenao/github-config](https://github.com/brayanhenao/github-config)
+2. 💪 Opened PR [#4237](https://github.com/education/GitHubGraduation-2021/pull/4237)
+   in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+3. 💪 Opened PR [#76](https://github.com/paketo-buildpacks/stack-usns/pull/76)
+   in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
+4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
+   in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
+5. 💪 Opened PR [#4](https://github.com/paketo-community/conda-env-update/pull/4)
+   in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
@@ -54,26 +59,42 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanhenao&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📬 Get in touch
+
+Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to get more info.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhenao6/)
+[![Stackoverflow](https://img.shields.io/badge/-F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5371842/brayan-henao)
+[![Stack Exchange](https://img.shields.io/badge/-1E5397.svg?&style=for-the-badge&logo=stackexchange)](https://stackexchange.com/users/7008058/brayan-henao)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhenao6)
+
+[![Updated Badge](https://badges.pufler.dev/updated/brayanhenao/brayanhenao)](https://badges.pufler.dev)
+
 ## 📈 Stats
+
+<details>
+  <summary>Show</summary>
 
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My Github Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-298521%20lines%20of%20code-blue)
+
+**🐱 My Github Data**
 
 > 🏆 256 Contributions in the Year 2021
- > 
-> 📦 85.2 kB Used in Github's Storage 
- > 
+>
+> 📦 85.2 kB Used in Github's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 44 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 44 Public Repositories
+>
+> 🔑 9 Private Repositories
+>
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23% 
@@ -82,7 +103,8 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 🌙 Night      25 commits     ███████░░░░░░░░░░░░░░░░░░   30.86%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
 Monday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
@@ -95,8 +117,7 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Bogota
@@ -113,19 +134,12 @@ Zsh                      4 hrs 38 mins       ███████████�
 Vim                      1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   22.95% 
 GoLand                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29%
 
-🐱‍💻 Projects: 
-tanzu-nodejs             1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
-Terminal                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
-docs-tanzu-buildpacks    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.98% 
-bp-envs                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-tanzu-python-start       37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.75%
-
 💻 Operating System: 
 Mac                      7 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in Java**
 
 ```text
 Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
@@ -136,22 +150,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/brayanhenao/brayanhenao/main/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
-
-## 🔗 Get in touch
-
-📝 Curious about my experience? See my [CV](resources/Brayan%20Henao%20CV.pdf) to get more info.
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhenao6/)
-
-[![Stackoverflow](https://img.shields.io/badge/-F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5371842/brayan-henao)
-[![Stack Exchange](https://img.shields.io/badge/-1E5397.svg?&style=for-the-badge&logo=stackexchange)](https://stackexchange.com/users/7008058/brayan-henao)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhenao6)
-
-[![Updated Badge](https://badges.pufler.dev/updated/brayanhenao/brayanhenao)](https://badges.pufler.dev)
+</details>
