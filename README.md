@@ -78,23 +78,21 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-298521%20lines%20of%20code-blue)
 
-**🐱 My Github Data**
+**🐱 My Github Data** 
 
-> 🏆 256 Contributions in the Year 2021
->
-> 📦 85.2 kB Used in Github's Storage
->
+> 🏆 257 Contributions in the Year 2021
+ > 
+> 📦 85.3 kB Used in Github's Storage 
+ > 
 > 💼 Opted to Hire
->
-> 📜 44 Public Repositories
->
-> 🔑 9 Private Repositories
->
-**I'm a Night 🦉**
+ > 
+> 📜 45 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23% 
@@ -103,8 +101,7 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 🌙 Night      25 commits     ███████░░░░░░░░░░░░░░░░░░   30.86%
 
 ```
-
-📅 **I'm Most Productive on Thursday**
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
@@ -117,7 +114,8 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Bogota
@@ -139,7 +137,7 @@ Mac                      7 hrs 9 mins        ███████████�
 
 ```
 
-**I Mostly Code in Java**
+**I Mostly Code in Java** 
 
 ```text
 Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
@@ -149,6 +147,8 @@ Go                       4 repos             ███░░░░░░░░�
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
 
 ```
+
+
 
 <!--END_SECTION:waka-->
 </details>
