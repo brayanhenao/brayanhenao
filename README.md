@@ -29,11 +29,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/brayanhenao/github-config/pull/1) in [brayanhenao/github-config](https://github.com/brayanhenao/github-config)
-2. 💪 Opened PR [#4237](https://github.com/education/GitHubGraduation-2021/pull/4237) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-3. 💪 Opened PR [#76](https://github.com/paketo-buildpacks/stack-usns/pull/76) in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
-4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4) in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
-5. 💪 Opened PR [#4](https://github.com/paketo-community/conda-env-update/pull/4) in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
+1. ❌ Closed PR [#1](https://github.com/brayanhenao/github-config/pull/1) in [brayanhenao/github-config](https://github.com/brayanhenao/github-config)
+2. 💪 Opened PR [#1](https://github.com/brayanhenao/github-config/pull/1) in [brayanhenao/github-config](https://github.com/brayanhenao/github-config)
+3. 💪 Opened PR [#4237](https://github.com/education/GitHubGraduation-2021/pull/4237) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+4. 💪 Opened PR [#76](https://github.com/paketo-buildpacks/stack-usns/pull/76) in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
+5. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4) in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
