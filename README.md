@@ -29,11 +29,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#36](https://github.com/paketo-buildpacks/dep-server/issues/36) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-2. ❌ Closed PR [#1](https://github.com/brayanhenao/github-config/pull/1) in [brayanhenao/github-config](https://github.com/brayanhenao/github-config)
-3. 💪 Opened PR [#1](https://github.com/brayanhenao/github-config/pull/1) in [brayanhenao/github-config](https://github.com/brayanhenao/github-config)
-4. 💪 Opened PR [#4237](https://github.com/education/GitHubGraduation-2021/pull/4237) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-5. 💪 Opened PR [#76](https://github.com/paketo-buildpacks/stack-usns/pull/76) in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
+1. ❗️ Closed issue [#36](https://github.com/paketo-buildpacks/dep-server/issues/36) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+2. 🗣 Commented on [#36](https://github.com/paketo-buildpacks/dep-server/issues/36) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+3. ❗️ Opened issue [#36](https://github.com/paketo-buildpacks/dep-server/issues/36) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+4. ❌ Closed PR [#1](https://github.com/brayanhenao/github-config/pull/1) in [brayanhenao/github-config](https://github.com/brayanhenao/github-config)
+5. 💪 Opened PR [#1](https://github.com/brayanhenao/github-config/pull/1) in [brayanhenao/github-config](https://github.com/brayanhenao/github-config)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
