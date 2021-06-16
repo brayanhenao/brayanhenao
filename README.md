@@ -29,11 +29,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#136](https://github.com/paketo-buildpacks/stack-usns/pull/136) in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
-2. ❗️ Closed issue [#36](https://github.com/paketo-buildpacks/dep-server/issues/36) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-3. 🗣 Commented on [#36](https://github.com/paketo-buildpacks/dep-server/issues/36) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-4. ❗️ Opened issue [#36](https://github.com/paketo-buildpacks/dep-server/issues/36) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-5. ❌ Closed PR [#1](https://github.com/brayanhenao/github-config/pull/1) in [brayanhenao/github-config](https://github.com/brayanhenao/github-config)
+1. 🎉 Merged PR [#73](https://github.com/paketo-buildpacks/stacks/pull/73) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+2. 🎉 Merged PR [#55](https://github.com/paketo-buildpacks/tiny-stack-release/pull/55) in [paketo-buildpacks/tiny-stack-release](https://github.com/paketo-buildpacks/tiny-stack-release)
+3. 🎉 Merged PR [#47](https://github.com/paketo-buildpacks/base-stack-release/pull/47) in [paketo-buildpacks/base-stack-release](https://github.com/paketo-buildpacks/base-stack-release)
+4. 🎉 Merged PR [#74](https://github.com/paketo-buildpacks/full-stack-release/pull/74) in [paketo-buildpacks/full-stack-release](https://github.com/paketo-buildpacks/full-stack-release)
+5. 💪 Opened PR [#136](https://github.com/paketo-buildpacks/stack-usns/pull/136) in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
