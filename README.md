@@ -29,11 +29,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#85](https://github.com/paketo-buildpacks/rfcs/pull/85) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
-2. 🗣 Commented on [#74](https://github.com/paketo-buildpacks/stacks/issues/74) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-3. 🎉 Merged PR [#73](https://github.com/paketo-buildpacks/stacks/pull/73) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-4. 🎉 Merged PR [#55](https://github.com/paketo-buildpacks/tiny-stack-release/pull/55) in [paketo-buildpacks/tiny-stack-release](https://github.com/paketo-buildpacks/tiny-stack-release)
-5. 🎉 Merged PR [#47](https://github.com/paketo-buildpacks/base-stack-release/pull/47) in [paketo-buildpacks/base-stack-release](https://github.com/paketo-buildpacks/base-stack-release)
+1. 🗣 Commented on [#79](https://github.com/paketo-buildpacks/rfcs/issues/79) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
+2. 🎉 Merged PR [#74](https://github.com/paketo-buildpacks/stacks/pull/74) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+3. 🎉 Merged PR [#85](https://github.com/paketo-buildpacks/rfcs/pull/85) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
+4. 🗣 Commented on [#74](https://github.com/paketo-buildpacks/stacks/issues/74) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+5. 🎉 Merged PR [#73](https://github.com/paketo-buildpacks/stacks/pull/73) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
