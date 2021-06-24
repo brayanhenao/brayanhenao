@@ -29,11 +29,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#79](https://github.com/paketo-buildpacks/rfcs/issues/79) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
-2. 🎉 Merged PR [#74](https://github.com/paketo-buildpacks/stacks/pull/74) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-3. 🎉 Merged PR [#85](https://github.com/paketo-buildpacks/rfcs/pull/85) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
-4. 🗣 Commented on [#74](https://github.com/paketo-buildpacks/stacks/issues/74) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-5. 🎉 Merged PR [#73](https://github.com/paketo-buildpacks/stacks/pull/73) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+1. ❗️ Closed issue [#43](https://github.com/cloudfoundry/hwc-buildpack/issues/43) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)
+2. 💪 Opened PR [#44](https://github.com/cloudfoundry/hwc-buildpack/pull/44) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)
+3. 🗣 Commented on [#79](https://github.com/paketo-buildpacks/rfcs/issues/79) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
+4. 🗣 Commented on [#79](https://github.com/paketo-buildpacks/rfcs/issues/79) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
+5. 🎉 Merged PR [#74](https://github.com/paketo-buildpacks/stacks/pull/74) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
