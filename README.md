@@ -29,11 +29,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#43](https://github.com/cloudfoundry/hwc-buildpack/issues/43) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)
-2. 💪 Opened PR [#44](https://github.com/cloudfoundry/hwc-buildpack/pull/44) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)
-3. 🗣 Commented on [#79](https://github.com/paketo-buildpacks/rfcs/issues/79) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
-4. 🗣 Commented on [#79](https://github.com/paketo-buildpacks/rfcs/issues/79) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
-5. 🎉 Merged PR [#74](https://github.com/paketo-buildpacks/stacks/pull/74) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+1. 🎉 Merged PR [#51](https://github.com/paketo-buildpacks/base-stack-release/pull/51) in [paketo-buildpacks/base-stack-release](https://github.com/paketo-buildpacks/base-stack-release)
+2. 🎉 Merged PR [#59](https://github.com/paketo-buildpacks/tiny-stack-release/pull/59) in [paketo-buildpacks/tiny-stack-release](https://github.com/paketo-buildpacks/tiny-stack-release)
+3. ❗️ Closed issue [#75](https://github.com/paketo-buildpacks/stacks/issues/75) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+4. ❗️ Reopened issue [#75](https://github.com/paketo-buildpacks/stacks/issues/75) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+5. 🎉 Merged PR [#85](https://github.com/paketo-buildpacks/full-stack-release/pull/85) in [paketo-buildpacks/full-stack-release](https://github.com/paketo-buildpacks/full-stack-release)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
