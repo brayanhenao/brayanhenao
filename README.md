@@ -29,11 +29,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#51](https://github.com/paketo-buildpacks/base-stack-release/pull/51) in [paketo-buildpacks/base-stack-release](https://github.com/paketo-buildpacks/base-stack-release)
-2. 🎉 Merged PR [#59](https://github.com/paketo-buildpacks/tiny-stack-release/pull/59) in [paketo-buildpacks/tiny-stack-release](https://github.com/paketo-buildpacks/tiny-stack-release)
-3. ❗️ Closed issue [#75](https://github.com/paketo-buildpacks/stacks/issues/75) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-4. ❗️ Reopened issue [#75](https://github.com/paketo-buildpacks/stacks/issues/75) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-5. 🎉 Merged PR [#85](https://github.com/paketo-buildpacks/full-stack-release/pull/85) in [paketo-buildpacks/full-stack-release](https://github.com/paketo-buildpacks/full-stack-release)
+1. ❗️ Closed issue [#38](https://github.com/paketo-buildpacks/dep-server/issues/38) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+2. 🎉 Merged PR [#43](https://github.com/paketo-buildpacks/dep-server/pull/43) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+3. 🎉 Merged PR [#51](https://github.com/paketo-buildpacks/base-stack-release/pull/51) in [paketo-buildpacks/base-stack-release](https://github.com/paketo-buildpacks/base-stack-release)
+4. 🎉 Merged PR [#59](https://github.com/paketo-buildpacks/tiny-stack-release/pull/59) in [paketo-buildpacks/tiny-stack-release](https://github.com/paketo-buildpacks/tiny-stack-release)
+5. ❗️ Closed issue [#75](https://github.com/paketo-buildpacks/stacks/issues/75) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
