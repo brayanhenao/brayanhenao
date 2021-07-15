@@ -29,11 +29,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#63](https://github.com/paketo-buildpacks/dep-server/pull/63) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-2. 💪 Opened PR [#62](https://github.com/paketo-buildpacks/dep-server/pull/62) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-3. 🎉 Merged PR [#61](https://github.com/paketo-buildpacks/dep-server/pull/61) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-4. 🎉 Merged PR [#60](https://github.com/paketo-buildpacks/dep-server/pull/60) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-5. ❗️ Closed issue [#59](https://github.com/paketo-buildpacks/dep-server/issues/59) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+1. 🎉 Merged PR [#78](https://github.com/paketo-buildpacks/dep-server/pull/78) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+2. 🎉 Merged PR [#76](https://github.com/paketo-buildpacks/dep-server/pull/76) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+3. 🎉 Merged PR [#75](https://github.com/paketo-buildpacks/dep-server/pull/75) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+4. 🎉 Merged PR [#73](https://github.com/paketo-buildpacks/dep-server/pull/73) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+5. 🎉 Merged PR [#63](https://github.com/paketo-buildpacks/dep-server/pull/63) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
