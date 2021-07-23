@@ -29,11 +29,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/brayanhenao/mri/pull/1) in [brayanhenao/mri](https://github.com/brayanhenao/mri)
-2. 💪 Opened PR [#1](https://github.com/brayanhenao/mri/pull/1) in [brayanhenao/mri](https://github.com/brayanhenao/mri)
-3. 💪 Opened PR [#94](https://github.com/paketo-buildpacks/dep-server/pull/94) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-4. 🎉 Merged PR [#91](https://github.com/paketo-buildpacks/dep-server/pull/91) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-5. 💪 Opened PR [#92](https://github.com/paketo-buildpacks/dep-server/pull/92) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+1. 🗣 Commented on [#95](https://github.com/paketo-buildpacks/dep-server/issues/95) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+2. 🎉 Merged PR [#1](https://github.com/brayanhenao/mri/pull/1) in [brayanhenao/mri](https://github.com/brayanhenao/mri)
+3. 💪 Opened PR [#1](https://github.com/brayanhenao/mri/pull/1) in [brayanhenao/mri](https://github.com/brayanhenao/mri)
+4. 💪 Opened PR [#94](https://github.com/paketo-buildpacks/dep-server/pull/94) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+5. 🎉 Merged PR [#91](https://github.com/paketo-buildpacks/dep-server/pull/91) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
