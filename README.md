@@ -82,13 +82,13 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 
 **🐱 My Github Data** 
 
-> 🏆 346 Contributions in the Year 2021
+> 🏆 347 Contributions in the Year 2021
  > 
 > 📦 85.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 49 Public Repositories 
  > 
 > 🔑 13 Private Repositories  
  > 
@@ -121,13 +121,13 @@ Sunday       6 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-sh                       4 hrs 51 mins       █████████████████████████   100.0%
+sh                       3 hrs 19 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      4 hrs 51 mins       █████████████████████████   100.0%
+Zsh                      3 hrs 19 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 51 mins       █████████████████████████   100.0%
+Mac                      3 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
@@ -144,6 +144,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2021
+ Last Updated on 23/07/2021
 <!--END_SECTION:waka-->
 </details>
