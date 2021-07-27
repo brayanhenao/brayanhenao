@@ -29,11 +29,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#186](https://github.com/paketo-buildpacks/stack-usns/issues/186) in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
-2. 🗣 Commented on [#95](https://github.com/paketo-buildpacks/dep-server/issues/95) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-3. 🎉 Merged PR [#1](https://github.com/brayanhenao/mri/pull/1) in [brayanhenao/mri](https://github.com/brayanhenao/mri)
-4. 💪 Opened PR [#1](https://github.com/brayanhenao/mri/pull/1) in [brayanhenao/mri](https://github.com/brayanhenao/mri)
-5. 💪 Opened PR [#94](https://github.com/paketo-buildpacks/dep-server/pull/94) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+1. ❌ Closed PR [#78](https://github.com/paketo-buildpacks/stacks/pull/78) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+2. 🗣 Commented on [#78](https://github.com/paketo-buildpacks/stacks/issues/78) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+3. 💪 Opened PR [#81](https://github.com/paketo-buildpacks/stacks/pull/81) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+4. 🎉 Merged PR [#80](https://github.com/paketo-buildpacks/stacks/pull/80) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+5. 💪 Opened PR [#80](https://github.com/paketo-buildpacks/stacks/pull/80) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
