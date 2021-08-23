@@ -24,6 +24,7 @@ Native Buildpacks Family.
 
 [![Go Apigee Card](https://github-readme-stats.vercel.app/api/pin/?username=brayanhenao&repo=go-apigee-edge)](https://github.com/brayanhenao/go-apigee-edge)
 [![Competitive Programming Card](https://github-readme-stats.vercel.app/api/pin/?username=brayanhenao&repo=competitive-programming)](https://github.com/brayanhenao/competitive-programming)
+[![CVE Notifications App](https://github-readme-stats.vercel.app/api/pin/?username=brayanhenao&repo=cve-notifications-app)](https://github.com/brayanhenao/cve-notifications-app)
 
 ## ⚡️ Recent Activity
 
