@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#73](https://github.com/paketo-buildpacks/tiny-stack-release/pull/73) in [paketo-buildpacks/tiny-stack-release](https://github.com/paketo-buildpacks/tiny-stack-release)
-2. 💪 Opened PR [#113](https://github.com/paketo-buildpacks/full-stack-release/pull/113) in [paketo-buildpacks/full-stack-release](https://github.com/paketo-buildpacks/full-stack-release)
-3. 💪 Opened PR [#65](https://github.com/paketo-buildpacks/base-stack-release/pull/65) in [paketo-buildpacks/base-stack-release](https://github.com/paketo-buildpacks/base-stack-release)
-4. 💪 Opened PR [#111](https://github.com/paketo-buildpacks/full-stack-release/pull/111) in [paketo-buildpacks/full-stack-release](https://github.com/paketo-buildpacks/full-stack-release)
-5. 💪 Opened PR [#63](https://github.com/paketo-buildpacks/base-stack-release/pull/63) in [paketo-buildpacks/base-stack-release](https://github.com/paketo-buildpacks/base-stack-release)
+1. 🎉 Merged PR [#117](https://github.com/paketo-buildpacks/dep-server/pull/117) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+2. 💪 Opened PR [#73](https://github.com/paketo-buildpacks/tiny-stack-release/pull/73) in [paketo-buildpacks/tiny-stack-release](https://github.com/paketo-buildpacks/tiny-stack-release)
+3. 💪 Opened PR [#113](https://github.com/paketo-buildpacks/full-stack-release/pull/113) in [paketo-buildpacks/full-stack-release](https://github.com/paketo-buildpacks/full-stack-release)
+4. 💪 Opened PR [#65](https://github.com/paketo-buildpacks/base-stack-release/pull/65) in [paketo-buildpacks/base-stack-release](https://github.com/paketo-buildpacks/base-stack-release)
+5. 💪 Opened PR [#111](https://github.com/paketo-buildpacks/full-stack-release/pull/111) in [paketo-buildpacks/full-stack-release](https://github.com/paketo-buildpacks/full-stack-release)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
