@@ -83,13 +83,13 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 
 **🐱 My Github Data** 
 
-> 🏆 497 Contributions in the Year 2021
+> 🏆 498 Contributions in the Year 2021
  > 
 > 📦 86.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 51 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
  > 
@@ -145,6 +145,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2021
+ Last Updated on 14/09/2021
 <!--END_SECTION:waka-->
 </details>
