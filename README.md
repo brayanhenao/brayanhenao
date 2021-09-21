@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/pivotal/docs-book-tanzu-buildpacks/issues/1) in [pivotal/docs-book-tanzu-buildpacks](https://github.com/pivotal/docs-book-tanzu-buildpacks)
-2. 🎉 Merged PR [#12](https://github.com/pivotal/docs-book-tanzu-buildpacks/pull/12) in [pivotal/docs-book-tanzu-buildpacks](https://github.com/pivotal/docs-book-tanzu-buildpacks)
-3. 💪 Opened PR [#12](https://github.com/pivotal/docs-book-tanzu-buildpacks/pull/12) in [pivotal/docs-book-tanzu-buildpacks](https://github.com/pivotal/docs-book-tanzu-buildpacks)
-4. 🎉 Merged PR [#118](https://github.com/paketo-buildpacks/dep-server/pull/118) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-5. 🎉 Merged PR [#117](https://github.com/paketo-buildpacks/dep-server/pull/117) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+1. 🎉 Merged PR [#13](https://github.com/pivotal/docs-book-tanzu-buildpacks/pull/13) in [pivotal/docs-book-tanzu-buildpacks](https://github.com/pivotal/docs-book-tanzu-buildpacks)
+2. 🗣 Commented on [#10](https://github.com/pivotal/docs-book-tanzu-buildpacks/issues/10) in [pivotal/docs-book-tanzu-buildpacks](https://github.com/pivotal/docs-book-tanzu-buildpacks)
+3. 💪 Opened PR [#13](https://github.com/pivotal/docs-book-tanzu-buildpacks/pull/13) in [pivotal/docs-book-tanzu-buildpacks](https://github.com/pivotal/docs-book-tanzu-buildpacks)
+4. ❗️ Closed issue [#1](https://github.com/pivotal/docs-book-tanzu-buildpacks/issues/1) in [pivotal/docs-book-tanzu-buildpacks](https://github.com/pivotal/docs-book-tanzu-buildpacks)
+5. 🎉 Merged PR [#12](https://github.com/pivotal/docs-book-tanzu-buildpacks/pull/12) in [pivotal/docs-book-tanzu-buildpacks](https://github.com/pivotal/docs-book-tanzu-buildpacks)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
