@@ -81,11 +81,11 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-318296%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 516 Contributions in the Year 2021
  > 
-> 📦 86.3 kB Used in Github's Storage 
+> 📦 86.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -122,13 +122,13 @@ Sunday       6 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-sh                       2 hrs 18 mins       █████████████████████████   100.0%
+sh                       2 hrs 32 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      2 hrs 18 mins       █████████████████████████   100.0%
+Zsh                      2 hrs 32 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      2 hrs 18 mins       █████████████████████████   100.0%
+Mac                      2 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
@@ -145,6 +145,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 </details>
