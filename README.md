@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/brayanhenao/tombot-discord-bot/pull/1) in [brayanhenao/tombot-discord-bot](https://github.com/brayanhenao/tombot-discord-bot)
-2. 💪 Opened PR [#1](https://github.com/brayanhenao/tombot-discord-bot/pull/1) in [brayanhenao/tombot-discord-bot](https://github.com/brayanhenao/tombot-discord-bot)
-3. 💪 Opened PR [#113](https://github.com/paketo-buildpacks/rfcs/pull/113) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
-4. 💪 Opened PR [#375](https://github.com/paketo-buildpacks/node-engine/pull/375) in [paketo-buildpacks/node-engine](https://github.com/paketo-buildpacks/node-engine)
-5. 🗣 Commented on [#375](https://github.com/cloudfoundry/nodejs-buildpack/issues/375) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+1. 🎉 Merged PR [#341](https://github.com/paketo-buildpacks/stack-usns/pull/341) in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
+2. 🎉 Merged PR [#1](https://github.com/brayanhenao/tombot-discord-bot/pull/1) in [brayanhenao/tombot-discord-bot](https://github.com/brayanhenao/tombot-discord-bot)
+3. 💪 Opened PR [#1](https://github.com/brayanhenao/tombot-discord-bot/pull/1) in [brayanhenao/tombot-discord-bot](https://github.com/brayanhenao/tombot-discord-bot)
+4. 💪 Opened PR [#113](https://github.com/paketo-buildpacks/rfcs/pull/113) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)
+5. 💪 Opened PR [#375](https://github.com/paketo-buildpacks/node-engine/pull/375) in [paketo-buildpacks/node-engine](https://github.com/paketo-buildpacks/node-engine)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
