@@ -79,7 +79,9 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-322894%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2013%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -122,13 +124,13 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-sh                       1 hr 19 mins        █████████████████████████   100.0%
+sh                       1 hr 23 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      1 hr 19 mins        █████████████████████████   100.0%
+Zsh                      1 hr 23 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 19 mins        █████████████████████████   100.0%
+Mac                      1 hr 23 mins        █████████████████████████   100.0%
 
 ```
 
@@ -145,6 +147,6 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 02/12/2021
 <!--END_SECTION:waka-->
 </details>
