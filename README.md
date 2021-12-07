@@ -79,13 +79,13 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2021%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297491%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 621 Contributions in the Year 2021
+> 🏆 623 Contributions in the Year 2021
  > 
 > 📦 89.6 kB Used in GitHub's Storage 
  > 
@@ -98,21 +98,21 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    90 commits     ███████░░░░░░░░░░░░░░░░░░   28.48% 
-🌆 Daytime    199 commits    ███████████████░░░░░░░░░░   62.97% 
-🌃 Evening    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
+🌞 Morning    90 commits     ███████░░░░░░░░░░░░░░░░░░   28.3% 
+🌆 Daytime    201 commits    ███████████████░░░░░░░░░░   63.21% 
+🌃 Evening    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
+🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       67 commits     █████░░░░░░░░░░░░░░░░░░░░   21.2% 
-Tuesday      94 commits     ███████░░░░░░░░░░░░░░░░░░   29.75% 
-Wednesday    59 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
-Thursday     49 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
-Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
-Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
+Monday       69 commits     █████░░░░░░░░░░░░░░░░░░░░   21.7% 
+Tuesday      94 commits     ███████░░░░░░░░░░░░░░░░░░   29.56% 
+Wednesday    59 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
+Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
+Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
 Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
 
 ```
@@ -147,6 +147,6 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 </details>
