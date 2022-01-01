@@ -85,7 +85,7 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 
 **🐱 My GitHub Data** 
 
-> 🏆 711 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 89.7 kB Used in GitHub's Storage 
  > 
@@ -124,13 +124,13 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-sh                       2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -147,6 +147,6 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 </details>
