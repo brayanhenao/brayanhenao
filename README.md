@@ -79,11 +79,13 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2046%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 6 Contributions in the Year 2022
+> 🏆 8 Contributions in the Year 2022
  > 
 > 📦 89.7 kB Used in GitHub's Storage 
  > 
@@ -96,20 +98,20 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    113 commits    ███████░░░░░░░░░░░░░░░░░░   28.11% 
-🌆 Daytime    254 commits    ███████████████░░░░░░░░░░   63.18% 
-🌃 Evening    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
+🌞 Morning    113 commits    ███████░░░░░░░░░░░░░░░░░░   28.04% 
+🌆 Daytime    254 commits    ███████████████░░░░░░░░░░   63.03% 
+🌃 Evening    23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
 🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       85 commits     █████░░░░░░░░░░░░░░░░░░░░   21.14% 
-Tuesday      126 commits    ███████░░░░░░░░░░░░░░░░░░   31.34% 
-Wednesday    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
-Thursday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
+Monday       85 commits     █████░░░░░░░░░░░░░░░░░░░░   21.09% 
+Tuesday      127 commits    ████████░░░░░░░░░░░░░░░░░   31.51% 
+Wednesday    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.37% 
+Thursday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
+Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
 Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
 Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
 
@@ -122,13 +124,13 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+sh                       57 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zsh                      57 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             █████████████████████████   100.0%
 
 ```
 
@@ -145,6 +147,6 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
 </details>
