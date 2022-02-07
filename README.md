@@ -79,8 +79,6 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2031%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-298%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -147,6 +145,6 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2022 02:08:43 UTC
+ Last Updated on 07/02/2022 01:54:19 UTC
 <!--END_SECTION:waka-->
 </details>
