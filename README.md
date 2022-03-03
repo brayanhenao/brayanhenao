@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#424](https://github.com/cloudfoundry/nodejs-buildpack/issues/424) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-2. 🗣 Commented on [#518](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/518) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-3. 🗣 Commented on [#517](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/517) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-4. 🗣 Commented on [#519](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/519) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-5. ❌ Closed PR [#416](https://github.com/cloudfoundry/ruby-buildpack/pull/416) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
+1. ❌ Closed PR [#241](https://github.com/cloudfoundry/go-buildpack/pull/241) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
+2. ❌ Closed PR [#476](https://github.com/cloudfoundry/python-buildpack/pull/476) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+3. ❌ Closed PR [#279](https://github.com/cloudfoundry/staticfile-buildpack/pull/279) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
+4. ❌ Closed PR [#425](https://github.com/cloudfoundry/nodejs-buildpack/pull/425) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+5. ❌ Closed PR [#74](https://github.com/cloudfoundry/hwc-buildpack/pull/74) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
