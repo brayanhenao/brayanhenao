@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#535](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/535) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-2. 💪 Opened PR [#111](https://github.com/cloudfoundry/buildpacks-ci/pull/111) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
-3. ❌ Closed PR [#84](https://github.com/cloudfoundry/buildpacks-ci/pull/84) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
-4. ❗️ Closed issue [#233](https://github.com/cloudfoundry/go-buildpack/issues/233) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
-5. 🗣 Commented on [#233](https://github.com/cloudfoundry/go-buildpack/issues/233) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
+1. ❌ Closed PR [#75](https://github.com/cloudfoundry/hwc-buildpack/pull/75) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)
+2. 🎉 Merged PR [#80](https://github.com/cloudfoundry/binary-buildpack/pull/80) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)
+3. 💪 Opened PR [#80](https://github.com/cloudfoundry/binary-buildpack/pull/80) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)
+4. 💪 Opened PR [#75](https://github.com/cloudfoundry/hwc-buildpack/pull/75) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)
+5. 💪 Opened PR [#535](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/535) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
