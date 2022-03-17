@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#131](https://github.com/cloudfoundry/nginx-buildpack/pull/131) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
-2. ❌ Closed PR [#75](https://github.com/cloudfoundry/hwc-buildpack/pull/75) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)
-3. 🎉 Merged PR [#80](https://github.com/cloudfoundry/binary-buildpack/pull/80) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)
-4. 💪 Opened PR [#80](https://github.com/cloudfoundry/binary-buildpack/pull/80) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)
-5. 💪 Opened PR [#75](https://github.com/cloudfoundry/hwc-buildpack/pull/75) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)
+1. 🗣 Commented on [#479](https://github.com/cloudfoundry/python-buildpack/issues/479) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+2. 🗣 Commented on [#614](https://github.com/cloudfoundry/php-buildpack/issues/614) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+3. ❗️ Closed issue [#454](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/454) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+4. ❌ Closed PR [#537](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/537) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+5. ❌ Closed PR [#538](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/538) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
