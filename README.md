@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#521](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/521) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-2. 🎉 Merged PR [#143](https://github.com/paketo-buildpacks/dep-server/pull/143) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-3. 🗣 Commented on [#479](https://github.com/cloudfoundry/python-buildpack/issues/479) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
-4. 🗣 Commented on [#614](https://github.com/cloudfoundry/php-buildpack/issues/614) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-5. ❗️ Closed issue [#454](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/454) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+1. ❗️ Closed issue [#614](https://github.com/cloudfoundry/php-buildpack/issues/614) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+2. 🗣 Commented on [#614](https://github.com/cloudfoundry/php-buildpack/issues/614) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+3. 🗣 Commented on [#614](https://github.com/cloudfoundry/php-buildpack/issues/614) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+4. 🗣 Commented on [#521](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/521) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+5. 🎉 Merged PR [#143](https://github.com/paketo-buildpacks/dep-server/pull/143) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
