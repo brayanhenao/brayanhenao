@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#157](https://github.com/cloudfoundry/libbuildpack/issues/157) in [cloudfoundry/libbuildpack](https://github.com/cloudfoundry/libbuildpack)
-2. 🗣 Commented on [#155](https://github.com/cloudfoundry/libbuildpack/issues/155) in [cloudfoundry/libbuildpack](https://github.com/cloudfoundry/libbuildpack)
-3. 🎉 Merged PR [#154](https://github.com/cloudfoundry/libbuildpack/pull/154) in [cloudfoundry/libbuildpack](https://github.com/cloudfoundry/libbuildpack)
-4. 🎉 Merged PR [#156](https://github.com/cloudfoundry/libbuildpack/pull/156) in [cloudfoundry/libbuildpack](https://github.com/cloudfoundry/libbuildpack)
-5. 💪 Opened PR [#156](https://github.com/cloudfoundry/libbuildpack/pull/156) in [cloudfoundry/libbuildpack](https://github.com/cloudfoundry/libbuildpack)
+1. 💪 Opened PR [#149](https://github.com/paketo-buildpacks/dep-server/pull/149) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+2. ❗️ Closed issue [#416](https://github.com/cloudfoundry/nodejs-buildpack/issues/416) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+3. 🎉 Merged PR [#81](https://github.com/cloudfoundry/binary-buildpack/pull/81) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)
+4. 🗣 Commented on [#81](https://github.com/cloudfoundry/binary-buildpack/issues/81) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)
+5. 🎉 Merged PR [#82](https://github.com/cloudfoundry/binary-buildpack/pull/82) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
