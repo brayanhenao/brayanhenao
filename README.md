@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#113](https://github.com/cloudfoundry/buildpacks-ci/pull/113) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
-2. 💪 Opened PR [#113](https://github.com/cloudfoundry/buildpacks-ci/pull/113) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
-3. ❗️ Closed issue [#618](https://github.com/cloudfoundry/php-buildpack/issues/618) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-4. 🗣 Commented on [#618](https://github.com/cloudfoundry/php-buildpack/issues/618) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-5. ❌ Closed PR [#430](https://github.com/cloudfoundry/ruby-buildpack/pull/430) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
+1. 🎉 Merged PR [#5](https://github.com/cloudfoundry/core-deps-ci/pull/5) in [cloudfoundry/core-deps-ci](https://github.com/cloudfoundry/core-deps-ci)
+2. ❗️ Closed issue [#421](https://github.com/cloudfoundry/nodejs-buildpack/issues/421) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+3. 🗣 Commented on [#421](https://github.com/cloudfoundry/nodejs-buildpack/issues/421) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+4. 🗣 Commented on [#121](https://github.com/paketo-buildpacks/stacks/issues/121) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+5. 🗣 Commented on [#121](https://github.com/paketo-buildpacks/stacks/issues/121) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
