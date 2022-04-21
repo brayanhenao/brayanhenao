@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#282](https://github.com/cloudfoundry/staticfile-buildpack/pull/282) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
-2. 💪 Opened PR [#317](https://github.com/paketo-buildpacks/httpd/pull/317) in [paketo-buildpacks/httpd](https://github.com/paketo-buildpacks/httpd)
-3. ❌ Closed PR [#439](https://github.com/cloudfoundry/ruby-buildpack/pull/439) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
-4. ❌ Closed PR [#440](https://github.com/cloudfoundry/ruby-buildpack/pull/440) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
-5. ❌ Closed PR [#438](https://github.com/cloudfoundry/ruby-buildpack/pull/438) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
+1. 🎉 Merged PR [#153](https://github.com/paketo-buildpacks/dep-server/pull/153) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+2. 💪 Opened PR [#117](https://github.com/cloudfoundry/buildpacks-ci/pull/117) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+3. 🗣 Commented on [#149](https://github.com/paketo-buildpacks/dep-server/issues/149) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+4. 🗣 Commented on [#152](https://github.com/paketo-buildpacks/dep-server/issues/152) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+5. 🎉 Merged PR [#282](https://github.com/cloudfoundry/staticfile-buildpack/pull/282) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
