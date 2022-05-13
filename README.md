@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#573](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/573) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-2. 💪 Opened PR [#573](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/573) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-3. 🎉 Merged PR [#572](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/572) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-4. 🗣 Commented on [#566](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/566) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-5. 💪 Opened PR [#572](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/572) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+1. 🗣 Commented on [#137](https://github.com/paketo-buildpacks/stacks/issues/137) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+2. 💪 Opened PR [#139](https://github.com/paketo-buildpacks/stacks/pull/139) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+3. 🎉 Merged PR [#137](https://github.com/paketo-buildpacks/stacks/pull/137) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
+4. 🎉 Merged PR [#449](https://github.com/cloudfoundry/nodejs-buildpack/pull/449) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+5. 🎉 Merged PR [#290](https://github.com/cloudfoundry/staticfile-buildpack/pull/290) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
