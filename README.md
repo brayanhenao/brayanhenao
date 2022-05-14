@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#137](https://github.com/paketo-buildpacks/stacks/issues/137) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-2. 💪 Opened PR [#139](https://github.com/paketo-buildpacks/stacks/pull/139) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-3. 🎉 Merged PR [#137](https://github.com/paketo-buildpacks/stacks/pull/137) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-4. 🎉 Merged PR [#449](https://github.com/cloudfoundry/nodejs-buildpack/pull/449) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-5. 🎉 Merged PR [#290](https://github.com/cloudfoundry/staticfile-buildpack/pull/290) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
+1. 🗣 Commented on [#21](https://github.com/Dynatrace/libbuildpack-dynatrace/issues/21) in [Dynatrace/libbuildpack-dynatrace](https://github.com/Dynatrace/libbuildpack-dynatrace)
+2. ❌ Closed PR [#646](https://github.com/cloudfoundry/php-buildpack/pull/646) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+3. 🎉 Merged PR [#644](https://github.com/cloudfoundry/php-buildpack/pull/644) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+4. 🎉 Merged PR [#259](https://github.com/cloudfoundry/go-buildpack/pull/259) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
+5. 🎉 Merged PR [#80](https://github.com/cloudfoundry/apt-buildpack/pull/80) in [cloudfoundry/apt-buildpack](https://github.com/cloudfoundry/apt-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
