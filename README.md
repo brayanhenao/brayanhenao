@@ -79,15 +79,15 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 441 Contributions in the Year 2022
+> 🏆 445 Contributions in the Year 2022
  > 
-> 📦 98.1 kB Used in GitHub's Storage 
+> 📦 98.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -99,9 +99,9 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 
 ```text
 🌞 Morning    150 commits    ██████░░░░░░░░░░░░░░░░░░░   25.51% 
-🌆 Daytime    353 commits    ███████████████░░░░░░░░░░   60.03% 
-🌃 Evening    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-🌙 Night      12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
+🌆 Daytime    354 commits    ███████████████░░░░░░░░░░   60.2% 
+🌃 Evening    74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -109,9 +109,9 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 ```text
 Monday       92 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
 Tuesday      146 commits    ██████░░░░░░░░░░░░░░░░░░░   24.83% 
-Wednesday    118 commits    █████░░░░░░░░░░░░░░░░░░░░   20.07% 
+Wednesday    116 commits    █████░░░░░░░░░░░░░░░░░░░░   19.73% 
 Thursday     118 commits    █████░░░░░░░░░░░░░░░░░░░░   20.07% 
-Friday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Friday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.01% 
 Saturday     11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
 Sunday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
 
@@ -124,13 +124,13 @@ Sunday       5 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-sh                       2 hrs 43 mins       █████████████████████████   100.0%
+sh                       3 hrs 6 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      2 hrs 43 mins       █████████████████████████   100.0%
+Zsh                      3 hrs 6 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      2 hrs 43 mins       █████████████████████████   100.0%
+Mac                      3 hrs 6 mins        █████████████████████████   100.0%
 
 ```
 
@@ -147,6 +147,6 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2022 02:52:52 UTC
+ Last Updated on 21/05/2022 02:19:50 UTC
 <!--END_SECTION:waka-->
 </details>
