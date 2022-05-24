@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#479](https://github.com/cloudfoundry/ruby-buildpack/issues/479) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
-2. 🎉 Merged PR [#130](https://github.com/cloudfoundry/buildpacks-ci/pull/130) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
-3. 🎉 Merged PR [#478](https://github.com/cloudfoundry/ruby-buildpack/pull/478) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
-4. 🎉 Merged PR [#578](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/578) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-5. 💪 Opened PR [#478](https://github.com/cloudfoundry/ruby-buildpack/pull/478) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
+1. 🎉 Merged PR [#6](https://github.com/cloudfoundry/core-deps-ci/pull/6) in [cloudfoundry/core-deps-ci](https://github.com/cloudfoundry/core-deps-ci)
+2. 🎉 Merged PR [#132](https://github.com/cloudfoundry/buildpacks-ci/pull/132) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+3. 💪 Opened PR [#132](https://github.com/cloudfoundry/buildpacks-ci/pull/132) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+4. 🎉 Merged PR [#131](https://github.com/cloudfoundry/buildpacks-ci/pull/131) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+5. 💪 Opened PR [#131](https://github.com/cloudfoundry/buildpacks-ci/pull/131) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
