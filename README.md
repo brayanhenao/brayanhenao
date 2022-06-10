@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#517](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/517) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-2. 🎉 Merged PR [#460](https://github.com/cloudfoundry/nodejs-buildpack/pull/460) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-3. 💪 Opened PR [#460](https://github.com/cloudfoundry/nodejs-buildpack/pull/460) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-4. 🎉 Merged PR [#587](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/587) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-5. 💪 Opened PR [#587](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/587) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+1. ❗️ Closed issue [#517](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/517) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+2. 🗣 Commented on [#517](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/517) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+3. ❌ Closed PR [#589](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/589) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+4. ❌ Closed PR [#588](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/588) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+5. ❌ Closed PR [#590](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/590) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
