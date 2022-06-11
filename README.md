@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#517](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/517) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-2. 🗣 Commented on [#517](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/517) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-3. ❌ Closed PR [#589](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/589) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-4. ❌ Closed PR [#588](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/588) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-5. ❌ Closed PR [#590](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/590) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+1. 🗣 Commented on [#532](https://github.com/cloudfoundry/python-buildpack/issues/532) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+2. ❌ Closed PR [#485](https://github.com/cloudfoundry/ruby-buildpack/pull/485) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
+3. ❌ Closed PR [#487](https://github.com/cloudfoundry/ruby-buildpack/pull/487) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
+4. ❌ Closed PR [#484](https://github.com/cloudfoundry/ruby-buildpack/pull/484) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
+5. ❌ Closed PR [#486](https://github.com/cloudfoundry/ruby-buildpack/pull/486) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
