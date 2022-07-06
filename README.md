@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#672](https://github.com/cloudfoundry/php-buildpack/issues/672) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-2. 💪 Opened PR [#672](https://github.com/cloudfoundry/php-buildpack/pull/672) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-3. 🎉 Merged PR [#652](https://github.com/cloudfoundry/php-buildpack/pull/652) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-4. 🗣 Commented on [#177](https://github.com/paketo-buildpacks/dep-server/issues/177) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-5. 🎉 Merged PR [#11](https://github.com/paketo-buildpacks/bionic-tiny-stack/pull/11) in [paketo-buildpacks/bionic-tiny-stack](https://github.com/paketo-buildpacks/bionic-tiny-stack)
+1. 🎉 Merged PR [#674](https://github.com/cloudfoundry/php-buildpack/pull/674) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+2. 💪 Opened PR [#674](https://github.com/cloudfoundry/php-buildpack/pull/674) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+3. 🎉 Merged PR [#672](https://github.com/cloudfoundry/php-buildpack/pull/672) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+4. 🗣 Commented on [#178](https://github.com/paketo-buildpacks/dep-server/issues/178) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+5. 🎉 Merged PR [#23](https://github.com/paketo-buildpacks/jammy-tiny-stack/pull/23) in [paketo-buildpacks/jammy-tiny-stack](https://github.com/paketo-buildpacks/jammy-tiny-stack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
