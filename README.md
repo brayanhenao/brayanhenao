@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#623](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/623) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-2. 💪 Opened PR [#623](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/623) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-3. 💪 Opened PR [#162](https://github.com/cloudfoundry/buildpacks-ci/pull/162) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
-4. 🎉 Merged PR [#161](https://github.com/cloudfoundry/buildpacks-ci/pull/161) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
-5. 💪 Opened PR [#161](https://github.com/cloudfoundry/buildpacks-ci/pull/161) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+1. 🎉 Merged PR [#192](https://github.com/paketo-buildpacks/dep-server/pull/192) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+2. 🎉 Merged PR [#624](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/624) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+3. 💪 Opened PR [#293](https://github.com/cloudfoundry/docs-buildpacks/pull/293) in [cloudfoundry/docs-buildpacks](https://github.com/cloudfoundry/docs-buildpacks)
+4. 🎉 Merged PR [#623](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/623) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+5. 💪 Opened PR [#623](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/623) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
