@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#192](https://github.com/paketo-buildpacks/dep-server/pull/192) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-2. 🎉 Merged PR [#624](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/624) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-3. 💪 Opened PR [#293](https://github.com/cloudfoundry/docs-buildpacks/pull/293) in [cloudfoundry/docs-buildpacks](https://github.com/cloudfoundry/docs-buildpacks)
-4. 🎉 Merged PR [#623](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/623) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-5. 💪 Opened PR [#623](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/623) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+1. 🎉 Merged PR [#163](https://github.com/cloudfoundry/buildpacks-ci/pull/163) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+2. 💪 Opened PR [#163](https://github.com/cloudfoundry/buildpacks-ci/pull/163) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+3. 🎉 Merged PR [#294](https://github.com/cloudfoundry/docs-buildpacks/pull/294) in [cloudfoundry/docs-buildpacks](https://github.com/cloudfoundry/docs-buildpacks)
+4. 💪 Opened PR [#294](https://github.com/cloudfoundry/docs-buildpacks/pull/294) in [cloudfoundry/docs-buildpacks](https://github.com/cloudfoundry/docs-buildpacks)
+5. 🎉 Merged PR [#293](https://github.com/cloudfoundry/docs-buildpacks/pull/293) in [cloudfoundry/docs-buildpacks](https://github.com/cloudfoundry/docs-buildpacks)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
