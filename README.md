@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#389](https://github.com/cloudfoundry/community/issues/389) in [cloudfoundry/community](https://github.com/cloudfoundry/community)
-2. ❌ Closed PR [#699](https://github.com/cloudfoundry/php-buildpack/pull/699) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-3. ❌ Closed PR [#698](https://github.com/cloudfoundry/php-buildpack/pull/698) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-4. 🎉 Merged PR [#281](https://github.com/cloudfoundry/go-buildpack/pull/281) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
-5. 💪 Opened PR [#281](https://github.com/cloudfoundry/go-buildpack/pull/281) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
+1. 🎉 Merged PR [#211](https://github.com/paketo-buildpacks/dep-server/pull/211) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+2. 🗣 Commented on [#389](https://github.com/cloudfoundry/community/issues/389) in [cloudfoundry/community](https://github.com/cloudfoundry/community)
+3. ❌ Closed PR [#699](https://github.com/cloudfoundry/php-buildpack/pull/699) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+4. ❌ Closed PR [#698](https://github.com/cloudfoundry/php-buildpack/pull/698) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+5. 🎉 Merged PR [#281](https://github.com/cloudfoundry/go-buildpack/pull/281) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
