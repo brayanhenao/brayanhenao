@@ -30,11 +30,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#479](https://github.com/cloudfoundry/nodejs-buildpack/pull/479) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-2. 💪 Opened PR [#167](https://github.com/cloudfoundry/buildpacks-ci/pull/167) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
-3. 💪 Opened PR [#161](https://github.com/paketo-buildpacks/stacks/pull/161) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-4. 🎉 Merged PR [#522](https://github.com/cloudfoundry/ruby-buildpack/pull/522) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
-5. 💪 Opened PR [#522](https://github.com/cloudfoundry/ruby-buildpack/pull/522) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
+1. 🗣 Commented on [#14](https://github.com/paketo-buildpacks/bionic-base-stack/issues/14) in [paketo-buildpacks/bionic-base-stack](https://github.com/paketo-buildpacks/bionic-base-stack)
+2. 🎉 Merged PR [#479](https://github.com/cloudfoundry/nodejs-buildpack/pull/479) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+3. 💪 Opened PR [#479](https://github.com/cloudfoundry/nodejs-buildpack/pull/479) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+4. 💪 Opened PR [#167](https://github.com/cloudfoundry/buildpacks-ci/pull/167) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+5. 💪 Opened PR [#161](https://github.com/paketo-buildpacks/stacks/pull/161) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
