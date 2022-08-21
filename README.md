@@ -79,15 +79,15 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 883 Contributions in the Year 2022
+> 🏆 886 Contributions in the Year 2022
  > 
-> 📦 151.9 kB Used in GitHub's Storage 
+> 📦 152.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -109,10 +109,10 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 ```text
 Monday       94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
 Tuesday      147 commits    ██████░░░░░░░░░░░░░░░░░░░   24.58% 
-Wednesday    102 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Thursday     114 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
-Friday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-Saturday     26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+Wednesday    101 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.89% 
+Thursday     113 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.9% 
+Friday       99 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
+Saturday     27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.52% 
 Sunday       17 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
 
 ```
@@ -124,13 +124,13 @@ Sunday       17 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-sh                       8 hrs 12 mins       █████████████████████████   100.0%
+sh                       5 hrs 46 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      8 hrs 12 mins       █████████████████████████   100.0%
+Zsh                      5 hrs 46 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 12 mins       █████████████████████████   100.0%
+Mac                      5 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
@@ -147,6 +147,6 @@ Shell                    4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2022 03:16:59 UTC
+ Last Updated on 21/08/2022 03:14:13 UTC
 <!--END_SECTION:waka-->
 </details>
