@@ -7,6 +7,10 @@
 
 I'm Brayan, a Software Engineer based in Colombia working for [VMware](https://www.vmware.com/).
 
+- 🎓 Education
+  - BS Software Engineering, ICESI University, Colombia.
+  - MSc Software Engineering Student, Andes University, Colombia.
+
 I spend most of my time working on the [Paketo Buildpacks](https://paketo.io/) (A Cloud Foundry Project)
 and [Tanzu Buildpacks](https://tanzu.vmware.com/components/buildpacks) projects where I focus on improving the Cloud
 Native Buildpacks Family.
