@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#481](https://github.com/cloudfoundry/nodejs-buildpack/pull/481) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-2. 🗣 Commented on [#59](https://github.com/cloudfoundry/binary-builder/issues/59) in [cloudfoundry/binary-builder](https://github.com/cloudfoundry/binary-builder)
-3. 🗣 Commented on [#59](https://github.com/cloudfoundry/binary-builder/issues/59) in [cloudfoundry/binary-builder](https://github.com/cloudfoundry/binary-builder)
-4. 💪 Opened PR [#59](https://github.com/cloudfoundry/binary-builder/pull/59) in [cloudfoundry/binary-builder](https://github.com/cloudfoundry/binary-builder)
-5. 💪 Opened PR [#168](https://github.com/cloudfoundry/buildpacks-ci/pull/168) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+1. ❗️ Closed issue [#4](https://github.com/brayanhenao/git_web_practice/issues/4) in [brayanhenao/git_web_practice](https://github.com/brayanhenao/git_web_practice)
+2. ❗️ Closed issue [#5](https://github.com/brayanhenao/git_web_practice/issues/5) in [brayanhenao/git_web_practice](https://github.com/brayanhenao/git_web_practice)
+3. 🎉 Merged PR [#481](https://github.com/cloudfoundry/nodejs-buildpack/pull/481) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+4. 🗣 Commented on [#59](https://github.com/cloudfoundry/binary-builder/issues/59) in [cloudfoundry/binary-builder](https://github.com/cloudfoundry/binary-builder)
+5. 🗣 Commented on [#59](https://github.com/cloudfoundry/binary-builder/issues/59) in [cloudfoundry/binary-builder](https://github.com/cloudfoundry/binary-builder)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
