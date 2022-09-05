@@ -83,15 +83,15 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 957 Contributions in the Year 2022
+> 🏆 958 Contributions in the Year 2022
  > 
-> 📦 172.7 kB Used in GitHub's Storage 
+> 📦 175.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -115,9 +115,9 @@ Monday       86 commits     ███░░░░░░░░░░░░░░�
 Tuesday      137 commits    ██████░░░░░░░░░░░░░░░░░░░   23.99% 
 Wednesday    94 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
 Thursday     111 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
-Friday       87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
+Friday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
 Saturday     39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.83% 
-Sunday       17 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98%
+Sunday       18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
 
 ```
 
@@ -128,13 +128,13 @@ Sunday       17 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-sh                       4 hrs 42 mins       █████████████████████████   100.0%
+sh                       4 hrs 54 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      4 hrs 42 mins       █████████████████████████   100.0%
+Zsh                      4 hrs 54 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 42 mins       █████████████████████████   100.0%
+Mac                      4 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
@@ -151,6 +151,6 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 03:36:28 UTC
+ Last Updated on 05/09/2022 03:41:23 UTC
 <!--END_SECTION:waka-->
 </details>
