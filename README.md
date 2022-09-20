@@ -83,15 +83,15 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-302%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,138 Contributions in the Year 2022
+> 🏆 1,144 Contributions in the Year 2022
  > 
-> 📦 196.7 kB Used in GitHub's Storage 
+> 📦 197.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -111,12 +111,12 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
+Monday       87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
 Tuesday      162 commits    ██████░░░░░░░░░░░░░░░░░░░   24.07% 
 Wednesday    110 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
 Thursday     131 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.47% 
 Friday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Saturday     52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
+Saturday     51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
 Sunday       39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.79%
 
 ```
@@ -128,13 +128,13 @@ Sunday       39 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-sh                       11 hrs 31 mins      █████████████████████████   100.0%
+sh                       13 hrs 58 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      11 hrs 31 mins      █████████████████████████   100.0%
+Zsh                      13 hrs 58 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      11 hrs 31 mins      █████████████████████████   100.0%
+Mac                      13 hrs 58 mins      █████████████████████████   100.0%
 
 ```
 
@@ -151,6 +151,6 @@ TypeScript               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2022 03:51:10 UTC
+ Last Updated on 20/09/2022 03:45:52 UTC
 <!--END_SECTION:waka-->
 </details>
