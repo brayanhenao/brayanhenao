@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#174](https://github.com/cloudfoundry/buildpacks-ci/pull/174) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
-2. 🎉 Merged PR [#287](https://github.com/cloudfoundry/go-buildpack/pull/287) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
-3. 🎉 Merged PR [#165](https://github.com/paketo-buildpacks/stacks/pull/165) in [paketo-buildpacks/stacks](https://github.com/paketo-buildpacks/stacks)
-4. ❌ Closed PR [#286](https://github.com/cloudfoundry/go-buildpack/pull/286) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
-5. 🎉 Merged PR [#173](https://github.com/cloudfoundry/buildpacks-ci/pull/173) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+1. 🎉 Merged PR [#12](https://github.com/cloudfoundry/core-deps-ci/pull/12) in [cloudfoundry/core-deps-ci](https://github.com/cloudfoundry/core-deps-ci)
+2. 💪 Opened PR [#12](https://github.com/cloudfoundry/core-deps-ci/pull/12) in [cloudfoundry/core-deps-ci](https://github.com/cloudfoundry/core-deps-ci)
+3. 💪 Opened PR [#605](https://github.com/cloudfoundry/python-buildpack/pull/605) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+4. 🎉 Merged PR [#219](https://github.com/paketo-buildpacks/dep-server/pull/219) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+5. 🗣 Commented on [#408](https://github.com/cloudfoundry/community/issues/408) in [cloudfoundry/community](https://github.com/cloudfoundry/community)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
