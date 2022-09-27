@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#608](https://github.com/cloudfoundry/python-buildpack/pull/608) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
-2. 💪 Opened PR [#608](https://github.com/cloudfoundry/python-buildpack/pull/608) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
-3. ❌ Closed PR [#498](https://github.com/cloudfoundry/nodejs-buildpack/pull/498) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-4. 🎉 Merged PR [#226](https://github.com/paketo-buildpacks/dep-server/pull/226) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-5. 🎉 Merged PR [#3](https://github.com/cloudfoundry/python-buildpack-release/pull/3) in [cloudfoundry/python-buildpack-release](https://github.com/cloudfoundry/python-buildpack-release)
+1. 💪 Opened PR [#4](https://github.com/bosh-io/releases-index/pull/4) in [bosh-io/releases-index](https://github.com/bosh-io/releases-index)
+2. 🎉 Merged PR [#608](https://github.com/cloudfoundry/python-buildpack/pull/608) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+3. 💪 Opened PR [#608](https://github.com/cloudfoundry/python-buildpack/pull/608) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+4. ❌ Closed PR [#498](https://github.com/cloudfoundry/nodejs-buildpack/pull/498) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+5. 🎉 Merged PR [#226](https://github.com/paketo-buildpacks/dep-server/pull/226) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
