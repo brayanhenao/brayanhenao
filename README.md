@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#511](https://github.com/cloudfoundry/nodejs-buildpack/pull/511) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-2. 🎉 Merged PR [#508](https://github.com/cloudfoundry/nodejs-buildpack/pull/508) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-3. 💪 Opened PR [#508](https://github.com/cloudfoundry/nodejs-buildpack/pull/508) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-4. ❌ Closed PR [#507](https://github.com/cloudfoundry/nodejs-buildpack/pull/507) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-5. ❗️ Closed issue [#462](https://github.com/cloudfoundry/nodejs-buildpack/issues/462) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+1. 🎉 Merged PR [#514](https://github.com/cloudfoundry/nodejs-buildpack/pull/514) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+2. 🎉 Merged PR [#290](https://github.com/cloudfoundry/go-buildpack/pull/290) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
+3. 🎉 Merged PR [#511](https://github.com/cloudfoundry/nodejs-buildpack/pull/511) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+4. 💪 Opened PR [#514](https://github.com/cloudfoundry/nodejs-buildpack/pull/514) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+5. ❌ Closed PR [#288](https://github.com/cloudfoundry/go-buildpack/pull/288) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
