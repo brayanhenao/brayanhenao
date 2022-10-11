@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#518](https://github.com/cloudfoundry/nodejs-buildpack/pull/518) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-2. 🎉 Merged PR [#9](https://github.com/cloudfoundry/buildpacks-github-config/pull/9) in [cloudfoundry/buildpacks-github-config](https://github.com/cloudfoundry/buildpacks-github-config)
-3. 💪 Opened PR [#9](https://github.com/cloudfoundry/buildpacks-github-config/pull/9) in [cloudfoundry/buildpacks-github-config](https://github.com/cloudfoundry/buildpacks-github-config)
-4. 🎉 Merged PR [#148](https://github.com/cloudfoundry/r-buildpack/pull/148) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)
-5. 🎉 Merged PR [#156](https://github.com/cloudfoundry/nginx-buildpack/pull/156) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+1. 🎉 Merged PR [#39](https://github.com/cloudfoundry/switchblade/pull/39) in [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)
+2. 🎉 Merged PR [#73](https://github.com/cloudfoundry/dagger/pull/73) in [cloudfoundry/dagger](https://github.com/cloudfoundry/dagger)
+3. 🗣 Commented on [#92](https://github.com/cloudfoundry/binary-buildpack/issues/92) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)
+4. 🗣 Commented on [#615](https://github.com/cloudfoundry/python-buildpack/issues/615) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+5. 🗣 Commented on [#516](https://github.com/cloudfoundry/nodejs-buildpack/issues/516) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
