@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#653](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/653) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-2. 🎉 Merged PR [#655](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/655) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-3. ❗️ Closed issue [#519](https://github.com/cloudfoundry/nodejs-buildpack/issues/519) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-4. 🗣 Commented on [#519](https://github.com/cloudfoundry/nodejs-buildpack/issues/519) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-5. 🎉 Merged PR [#39](https://github.com/cloudfoundry/switchblade/pull/39) in [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)
+1. 🗣 Commented on [#236](https://github.com/paketo-buildpacks/dep-server/issues/236) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+2. 🎉 Merged PR [#235](https://github.com/paketo-buildpacks/dep-server/pull/235) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
+3. 🎉 Merged PR [#653](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/653) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+4. 🎉 Merged PR [#655](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/655) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+5. ❗️ Closed issue [#519](https://github.com/cloudfoundry/nodejs-buildpack/issues/519) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
