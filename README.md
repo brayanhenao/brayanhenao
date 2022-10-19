@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#12](https://github.com/brayanhenao/MISW4103_202215_Brayan_Rodrigo/issues/12) in [brayanhenao/MISW4103_202215_Brayan_Rodrigo](https://github.com/brayanhenao/MISW4103_202215_Brayan_Rodrigo)
-2. 🗣 Commented on [#12](https://github.com/brayanhenao/MISW4103_202215_Brayan_Rodrigo/issues/12) in [brayanhenao/MISW4103_202215_Brayan_Rodrigo](https://github.com/brayanhenao/MISW4103_202215_Brayan_Rodrigo)
-3. ❗️ Opened issue [#12](https://github.com/brayanhenao/MISW4103_202215_Brayan_Rodrigo/issues/12) in [brayanhenao/MISW4103_202215_Brayan_Rodrigo](https://github.com/brayanhenao/MISW4103_202215_Brayan_Rodrigo)
-4. ❗️ Opened issue [#11](https://github.com/brayanhenao/MISW4103_202215_Brayan_Rodrigo/issues/11) in [brayanhenao/MISW4103_202215_Brayan_Rodrigo](https://github.com/brayanhenao/MISW4103_202215_Brayan_Rodrigo)
-5. ❗️ Opened issue [#10](https://github.com/brayanhenao/MISW4103_202215_Brayan_Rodrigo/issues/10) in [brayanhenao/MISW4103_202215_Brayan_Rodrigo](https://github.com/brayanhenao/MISW4103_202215_Brayan_Rodrigo)
+1. 🎉 Merged PR [#181](https://github.com/cloudfoundry/buildpacks-ci/pull/181) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+2. 🗣 Commented on [#181](https://github.com/cloudfoundry/buildpacks-ci/issues/181) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+3. 💪 Opened PR [#181](https://github.com/cloudfoundry/buildpacks-ci/pull/181) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+4. 🎉 Merged PR [#631](https://github.com/cloudfoundry/python-buildpack/pull/631) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+5. 💪 Opened PR [#631](https://github.com/cloudfoundry/python-buildpack/pull/631) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
