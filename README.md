@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#641](https://github.com/cloudfoundry/python-buildpack/pull/641) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
-2. 💪 Opened PR [#641](https://github.com/cloudfoundry/python-buildpack/pull/641) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
-3. 🎉 Merged PR [#322](https://github.com/cloudfoundry/staticfile-buildpack/pull/322) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
-4. 🎉 Merged PR [#165](https://github.com/cloudfoundry/nginx-buildpack/pull/165) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
-5. 💪 Opened PR [#165](https://github.com/cloudfoundry/nginx-buildpack/pull/165) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+1. ❗️ Opened issue [#14](https://github.com/pipeCer/ghost/issues/14) in [pipeCer/ghost](https://github.com/pipeCer/ghost)
+2. ❗️ Opened issue [#13](https://github.com/pipeCer/ghost/issues/13) in [pipeCer/ghost](https://github.com/pipeCer/ghost)
+3. 🎉 Merged PR [#641](https://github.com/cloudfoundry/python-buildpack/pull/641) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+4. 💪 Opened PR [#641](https://github.com/cloudfoundry/python-buildpack/pull/641) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+5. 🎉 Merged PR [#322](https://github.com/cloudfoundry/staticfile-buildpack/pull/322) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
