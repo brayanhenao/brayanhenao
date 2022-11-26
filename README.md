@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/brayanhenao/e2e-ghost/pull/2) in [brayanhenao/e2e-ghost](https://github.com/brayanhenao/e2e-ghost)
-2. 💪 Opened PR [#2](https://github.com/brayanhenao/e2e-ghost/pull/2) in [brayanhenao/e2e-ghost](https://github.com/brayanhenao/e2e-ghost)
-3. ❗️ Opened issue [#14](https://github.com/pipeCer/ghost/issues/14) in [pipeCer/ghost](https://github.com/pipeCer/ghost)
-4. ❗️ Opened issue [#13](https://github.com/pipeCer/ghost/issues/13) in [pipeCer/ghost](https://github.com/pipeCer/ghost)
-5. 🎉 Merged PR [#641](https://github.com/cloudfoundry/python-buildpack/pull/641) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+1. 🎉 Merged PR [#4](https://github.com/brayanhenao/e2e-ghost/pull/4) in [brayanhenao/e2e-ghost](https://github.com/brayanhenao/e2e-ghost)
+2. 💪 Opened PR [#4](https://github.com/brayanhenao/e2e-ghost/pull/4) in [brayanhenao/e2e-ghost](https://github.com/brayanhenao/e2e-ghost)
+3. 🎉 Merged PR [#2](https://github.com/brayanhenao/e2e-ghost/pull/2) in [brayanhenao/e2e-ghost](https://github.com/brayanhenao/e2e-ghost)
+4. 💪 Opened PR [#2](https://github.com/brayanhenao/e2e-ghost/pull/2) in [brayanhenao/e2e-ghost](https://github.com/brayanhenao/e2e-ghost)
+5. ❗️ Opened issue [#14](https://github.com/pipeCer/ghost/issues/14) in [pipeCer/ghost](https://github.com/pipeCer/ghost)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
