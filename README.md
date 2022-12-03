@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#251](https://github.com/paketo-buildpacks/dep-server/pull/251) in [paketo-buildpacks/dep-server](https://github.com/paketo-buildpacks/dep-server)
-2. ❗️ Opened issue [#22](https://github.com/pipeCer/ghost/issues/22) in [pipeCer/ghost](https://github.com/pipeCer/ghost)
-3. 💪 Opened PR [#8](https://github.com/brayanhenao/e2e-ghost/pull/8) in [brayanhenao/e2e-ghost](https://github.com/brayanhenao/e2e-ghost)
-4. 💪 Opened PR [#7](https://github.com/brayanhenao/e2e-ghost/pull/7) in [brayanhenao/e2e-ghost](https://github.com/brayanhenao/e2e-ghost)
-5. 🎉 Merged PR [#5](https://github.com/brayanhenao/e2e-ghost/pull/5) in [brayanhenao/e2e-ghost](https://github.com/brayanhenao/e2e-ghost)
+1. 🎉 Merged PR [#18](https://github.com/cloudfoundry/core-deps-ci/pull/18) in [cloudfoundry/core-deps-ci](https://github.com/cloudfoundry/core-deps-ci)
+2. 🎉 Merged PR [#196](https://github.com/cloudfoundry/buildpacks-ci/pull/196) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+3. ❌ Closed PR [#698](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/698) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+4. ❌ Closed PR [#699](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/699) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+5. ❌ Closed PR [#696](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/696) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
