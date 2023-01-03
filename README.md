@@ -83,74 +83,35 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=brayanhenao&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-350%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,320 Contributions in the Year 2022
+> 🏆 19 Contributions in the Year 2023
  > 
-> 📦 204.6 kB Used in GitHub's Storage 
+> 📦 356.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 65 Public Repositories 
+> 📜 71 Public Repositories 
  > 
-> 🔑 21 Private Repositories  
+> 🔑 20 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    123 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.62% 
-🌆 Daytime    352 commits    ████████████░░░░░░░░░░░░░   50.43% 
-🌃 Evening    201 commits    ███████░░░░░░░░░░░░░░░░░░   28.8% 
-🌙 Night      22 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Tuesday      162 commits    █████░░░░░░░░░░░░░░░░░░░░   23.21% 
-Wednesday    139 commits    █████░░░░░░░░░░░░░░░░░░░░   19.91% 
-Thursday     134 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
-Friday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
-Saturday     50 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.16% 
-Sunday       39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.59%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-sh                       6 hrs 27 mins       █████████████████████████   100.0%
-
-🔥 Editors: 
-Zsh                      6 hrs 27 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      6 hrs 27 mins       █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   26.92% 
-Go                       10 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.62%
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.93% 
+Go                       10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.26%
 
 ```
 
 
 
- Last Updated on 06/10/2022 03:10:48 UTC
+ Last Updated on 03/01/2023 02:11:29 UTC
 <!--END_SECTION:waka-->
 </details>
