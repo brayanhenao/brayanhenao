@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#172](https://github.com/cloudfoundry/nginx-buildpack/pull/172) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
-2. 🗣 Commented on [#328](https://github.com/cloudfoundry/staticfile-buildpack/issues/328) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
-3. 🗣 Commented on [#691](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/691) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-4. 🎉 Merged PR [#719](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/719) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
-5. 💪 Opened PR [#211](https://github.com/cloudfoundry/buildpacks-ci/pull/211) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+1. 🎉 Merged PR [#211](https://github.com/cloudfoundry/buildpacks-ci/pull/211) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+2. 🎉 Merged PR [#172](https://github.com/cloudfoundry/nginx-buildpack/pull/172) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+3. 🗣 Commented on [#328](https://github.com/cloudfoundry/staticfile-buildpack/issues/328) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
+4. 🗣 Commented on [#691](https://github.com/cloudfoundry/dotnet-core-buildpack/issues/691) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+5. 🎉 Merged PR [#719](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/719) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
