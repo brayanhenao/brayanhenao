@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#326](https://github.com/cloudfoundry/go-buildpack/pull/326) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
-2. 🎉 Merged PR [#777](https://github.com/cloudfoundry/php-buildpack/pull/777) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-3. 🎉 Merged PR [#776](https://github.com/cloudfoundry/php-buildpack/pull/776) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-4. 🎉 Merged PR [#775](https://github.com/cloudfoundry/php-buildpack/pull/775) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-5. 🎉 Merged PR [#773](https://github.com/cloudfoundry/php-buildpack/pull/773) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+1. 🎉 Merged PR [#778](https://github.com/cloudfoundry/php-buildpack/pull/778) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+2. 💪 Opened PR [#778](https://github.com/cloudfoundry/php-buildpack/pull/778) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
+3. 🎉 Merged PR [#325](https://github.com/cloudfoundry/go-buildpack/pull/325) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)
+4. 🎉 Merged PR [#1](https://github.com/brayanhenao/php-buildpack/pull/1) in [brayanhenao/php-buildpack](https://github.com/brayanhenao/php-buildpack)
+5. 💪 Opened PR [#1](https://github.com/brayanhenao/php-buildpack/pull/1) in [brayanhenao/php-buildpack](https://github.com/brayanhenao/php-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
