@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#177](https://github.com/paketo-buildpacks/jam/pull/177) in [paketo-buildpacks/jam](https://github.com/paketo-buildpacks/jam)
-2. ❌ Closed PR [#786](https://github.com/cloudfoundry/php-buildpack/pull/786) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-3. ❌ Closed PR [#785](https://github.com/cloudfoundry/php-buildpack/pull/785) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)
-4. 🎉 Merged PR [#684](https://github.com/cloudfoundry/python-buildpack/pull/684) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
-5. 🗣 Commented on [#684](https://github.com/cloudfoundry/python-buildpack/issues/684) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+1. 🎉 Merged PR [#217](https://github.com/cloudfoundry/buildpacks-ci/pull/217) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
+2. ❌ Closed PR [#687](https://github.com/cloudfoundry/python-buildpack/pull/687) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+3. 🗣 Commented on [#2](https://github.com/cloudfoundry/php-buildpack-release/issues/2) in [cloudfoundry/php-buildpack-release](https://github.com/cloudfoundry/php-buildpack-release)
+4. 🗣 Commented on [#3](https://github.com/cloudfoundry/nginx-buildpack-release/issues/3) in [cloudfoundry/nginx-buildpack-release](https://github.com/cloudfoundry/nginx-buildpack-release)
+5. 🗣 Commented on [#1](https://github.com/cloudfoundry/staticfile-buildpack-release/issues/1) in [cloudfoundry/staticfile-buildpack-release](https://github.com/cloudfoundry/staticfile-buildpack-release)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
