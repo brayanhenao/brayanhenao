@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#217](https://github.com/cloudfoundry/buildpacks-ci/pull/217) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
-2. ❌ Closed PR [#687](https://github.com/cloudfoundry/python-buildpack/pull/687) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
-3. 🗣 Commented on [#2](https://github.com/cloudfoundry/php-buildpack-release/issues/2) in [cloudfoundry/php-buildpack-release](https://github.com/cloudfoundry/php-buildpack-release)
-4. 🗣 Commented on [#3](https://github.com/cloudfoundry/nginx-buildpack-release/issues/3) in [cloudfoundry/nginx-buildpack-release](https://github.com/cloudfoundry/nginx-buildpack-release)
-5. 🗣 Commented on [#1](https://github.com/cloudfoundry/staticfile-buildpack-release/issues/1) in [cloudfoundry/staticfile-buildpack-release](https://github.com/cloudfoundry/staticfile-buildpack-release)
+1. 🎉 Merged PR [#181](https://github.com/cloudfoundry/nginx-buildpack/pull/181) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+2. 🗣 Commented on [#181](https://github.com/cloudfoundry/nginx-buildpack/issues/181) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+3. 💪 Opened PR [#181](https://github.com/cloudfoundry/nginx-buildpack/pull/181) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+4. 🎉 Merged PR [#180](https://github.com/cloudfoundry/nginx-buildpack/pull/180) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+5. 🎉 Merged PR [#217](https://github.com/cloudfoundry/buildpacks-ci/pull/217) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
