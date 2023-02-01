@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#553](https://github.com/cloudfoundry/nodejs-buildpack/pull/553) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-2. 🎉 Merged PR [#181](https://github.com/cloudfoundry/nginx-buildpack/pull/181) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
-3. 🗣 Commented on [#181](https://github.com/cloudfoundry/nginx-buildpack/issues/181) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
-4. 💪 Opened PR [#181](https://github.com/cloudfoundry/nginx-buildpack/pull/181) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
-5. 🎉 Merged PR [#180](https://github.com/cloudfoundry/nginx-buildpack/pull/180) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+1. 🎉 Merged PR [#726](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/726) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+2. ❌ Closed PR [#727](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/727) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+3. ❌ Closed PR [#728](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/728) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)
+4. 🎉 Merged PR [#182](https://github.com/cloudfoundry/nginx-buildpack/pull/182) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+5. 🎉 Merged PR [#688](https://github.com/cloudfoundry/python-buildpack/pull/688) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
