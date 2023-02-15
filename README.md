@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#555](https://github.com/cloudfoundry/nodejs-buildpack/issues/555) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-2. 🎉 Merged PR [#712](https://github.com/cloudfoundry/ruby-buildpack/pull/712) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)
-3. 🗣 Commented on [#558](https://github.com/cloudfoundry/nodejs-buildpack/issues/558) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-4. 🎉 Merged PR [#557](https://github.com/cloudfoundry/nodejs-buildpack/pull/557) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
-5. 💪 Opened PR [#559](https://github.com/cloudfoundry/nodejs-buildpack/pull/559) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)
+1. 🗣 Commented on [#190](https://github.com/cloudfoundry/nginx-buildpack/issues/190) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+2. 🗣 Commented on [#536](https://github.com/cloudfoundry/community/issues/536) in [cloudfoundry/community](https://github.com/cloudfoundry/community)
+3. 🗣 Commented on [#189](https://github.com/cloudfoundry/nginx-buildpack/issues/189) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
+4. 🗣 Commented on [#3](https://github.com/cloudfoundry/nginx-buildpack-release/issues/3) in [cloudfoundry/nginx-buildpack-release](https://github.com/cloudfoundry/nginx-buildpack-release)
+5. ❗️ Closed issue [#692](https://github.com/cloudfoundry/python-buildpack/issues/692) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
