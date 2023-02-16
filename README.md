@@ -34,11 +34,11 @@ Native Buildpacks Family.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#190](https://github.com/cloudfoundry/nginx-buildpack/issues/190) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
-2. 🗣 Commented on [#536](https://github.com/cloudfoundry/community/issues/536) in [cloudfoundry/community](https://github.com/cloudfoundry/community)
-3. 🗣 Commented on [#189](https://github.com/cloudfoundry/nginx-buildpack/issues/189) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)
-4. 🗣 Commented on [#3](https://github.com/cloudfoundry/nginx-buildpack-release/issues/3) in [cloudfoundry/nginx-buildpack-release](https://github.com/cloudfoundry/nginx-buildpack-release)
-5. ❗️ Closed issue [#692](https://github.com/cloudfoundry/python-buildpack/issues/692) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+1. ❌ Closed PR [#712](https://github.com/cloudfoundry/python-buildpack/pull/712) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+2. ❌ Closed PR [#711](https://github.com/cloudfoundry/python-buildpack/pull/711) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+3. ❌ Closed PR [#710](https://github.com/cloudfoundry/python-buildpack/pull/710) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+4. ❌ Closed PR [#709](https://github.com/cloudfoundry/python-buildpack/pull/709) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
+5. ❌ Closed PR [#708](https://github.com/cloudfoundry/python-buildpack/pull/708) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)
    in [paketo-buildpacks/stack-usns](https://github.com/paketo-buildpacks/stack-usns)
 4. 🗣 Commented on [#4](https://github.com/paketo-community/conda-env-update/issues/4)
    in [paketo-community/conda-env-update](https://github.com/paketo-community/conda-env-update)
