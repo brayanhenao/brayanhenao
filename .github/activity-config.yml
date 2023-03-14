@@ -6,7 +6,7 @@ settings:
   disabled_events: [comments, issue_closed, pr_closed, fork_repo, create_repo, wiki_create, changes_requested, new_star]
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT-05:00"
+    timezone: "GMT+00:00"
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "readme-bot"
