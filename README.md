@@ -73,8 +73,6 @@ Curious about my experience? Check my [CV](resources/Brayan%20Henao%20CV.pdf) to
 [![Stack Exchange](https://img.shields.io/badge/-1E5397.svg?&style=for-the-badge&logo=stackexchange)](https://stackexchange.com/users/7008058/brayan-henao)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhenao6)
 
-[![Updated Badge](https://badges.pufler.dev/updated/brayanhenao/brayanhenao)](https://badges.pufler.dev)
-
 ## 📈 Stats
 
 <details>
