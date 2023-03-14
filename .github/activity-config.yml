@@ -1,7 +1,7 @@
 settings:
   username: "brayanhenao"
   commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 5
+  max_lines: 10
   readme_file: "./README.md"
   disabled_events: [comments, issue_closed, pr_closed, fork_repo, create_repo, wiki_create, changes_requested, new_star]
   url_text: "{REPO}{ID}"
@@ -12,6 +12,7 @@ settings:
   commit_name: "readme-bot"
   commit_email: "bryanhenao96@gmail.com"
   line_prefix: "{NUM}. "
+  ignored_repos: [brayanhenao/brayanhenao, misw4202-experimento2]
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
