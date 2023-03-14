@@ -33,15 +33,9 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 14th, 2023, 3:47:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [brayanhenao/brayanhenao](https://github.com/brayanhenao/brayanhenao)<br>
-2. ⬆️ Pushed 1 commit(s) to [brayanhenao/brayanhenao](https://github.com/brayanhenao/brayanhenao)<br>
-3. ⬆️ Pushed 1 commit(s) to [brayanhenao/brayanhenao](https://github.com/brayanhenao/brayanhenao)<br>
-4. ⬆️ Pushed 1 commit(s) to [brayanhenao/brayanhenao](https://github.com/brayanhenao/brayanhenao)<br>
-5. ⬆️ Pushed 1 commit(s) to [brayanhenao/brayanhenao](https://github.com/brayanhenao/brayanhenao)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
