@@ -33,20 +33,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 15th, 2023, 1:09:52 AM
+Last Updated: Thursday, March 16th, 2023, 1:11:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-2. 🎉 Merged PR [#580](https://github.com/cloudfoundry/nodejs-buildpack/pull/580) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-4. 🎉 Merged PR [#248](https://github.com/cloudfoundry/buildpacks-ci/pull/248) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+1. ✔️ Closed issue [#191](https://github.com/cloudfoundry/r-buildpack/issues/191) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
+2. ✔️ Closed issue [#573](https://github.com/cloudfoundry/nodejs-buildpack/issues/573) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+4. 🎉 Merged PR [#580](https://github.com/cloudfoundry/nodejs-buildpack/pull/580) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
 5. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-6. 💪 Opened PR [#248](https://github.com/cloudfoundry/buildpacks-ci/pull/248) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+6. 🎉 Merged PR [#248](https://github.com/cloudfoundry/buildpacks-ci/pull/248) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
 7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-8. 🎉 Merged PR [#247](https://github.com/cloudfoundry/buildpacks-ci/pull/247) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-9. 💪 Opened PR [#247](https://github.com/cloudfoundry/buildpacks-ci/pull/247) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-10. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+8. 💪 Opened PR [#248](https://github.com/cloudfoundry/buildpacks-ci/pull/248) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+10. 🎉 Merged PR [#247](https://github.com/cloudfoundry/buildpacks-ci/pull/247) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
