@@ -33,19 +33,19 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 8th, 2023, 1:02:45 AM
+Last Updated: Tuesday, May 9th, 2023, 1:06:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-2. 🎉 Merged PR [#7](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/7) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-3. 💪 Opened PR [#7](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/7) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-4. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-5. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-6. 🎉 Merged PR [#6](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/6) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-7. 💪 Opened PR [#6](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/6) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-8. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-9. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+1. ✌️ Released [v0.3.0](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/releases/tag/v0.3.0) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+2. ✌️ Released [v0.2.0](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/releases/tag/v0.2.0) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+3. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+4. 🎉 Merged PR [#7](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/7) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+5. 💪 Opened PR [#7](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/7) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+6. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+7. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+8. 🎉 Merged PR [#6](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/6) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+9. 💪 Opened PR [#6](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/6) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
 10. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
 <!--RECENT_ACTIVITY:end-->
 
