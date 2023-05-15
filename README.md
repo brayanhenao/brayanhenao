@@ -33,20 +33,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 14th, 2023, 1:08:07 AM
+Last Updated: Monday, May 15th, 2023, 1:07:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+1. ✌️ Released [v0.4.0](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/releases/tag/v0.4.0) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
 2. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-3. 🎉 Merged PR [#28](https://github.com/Miso-Code/misw4203-moviles-2023/pull/28) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-4. 💪 Opened PR [#28](https://github.com/Miso-Code/misw4203-moviles-2023/pull/28) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-5. ⬆️ Pushed 2 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-6. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+3. ⬆️ Pushed 3 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+4. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+5. 🎉 Merged PR [#29](https://github.com/Miso-Code/misw4203-moviles-2023/pull/29) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+6. 👍 Approved [#29](https://github.com/Miso-Code/misw4203-moviles-2023/pull/29#pullrequestreview-1425596578) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
 7. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-8. ⬆️ Pushed 1 commit(s) to [brayanhenao/misw4203-moviles-2023](https://github.com/brayanhenao/misw4203-moviles-2023)<br>
-9. ⬆️ Pushed 1 commit(s) to [brayanhenao/misw4203-moviles-2023](https://github.com/brayanhenao/misw4203-moviles-2023)<br>
-10. ⬆️ Pushed 1 commit(s) to [brayanhenao/misw4203-moviles-2023](https://github.com/brayanhenao/misw4203-moviles-2023)<br>
+8. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+9. ❌ Closed PR [#26](https://github.com/Miso-Code/misw4203-moviles-2023/pull/26) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+10. ❌ Closed PR [#27](https://github.com/Miso-Code/misw4203-moviles-2023/pull/27) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
