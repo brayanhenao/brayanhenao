@@ -33,20 +33,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 23rd, 2023, 1:04:57 AM
+Last Updated: Wednesday, May 24th, 2023, 1:07:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-2. ❌ Closed PR [#3](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/3) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-3. 👍 Approved [#36](https://github.com/Miso-Code/misw4203-moviles-2023/pull/36#pullrequestreview-1435566084) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-4. ✔️ Closed issue [#128](https://github.com/cloudfoundry/hwc-buildpack/issues/128) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)<br>
-5. ✔️ Closed issue [#137](https://github.com/cloudfoundry/binary-buildpack/issues/137) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)<br>
-6. 💪 Opened PR [#130](https://github.com/cloudfoundry/hwc-buildpack/pull/130) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)<br>
+1. ❌ Closed PR [#2](https://github.com/Miso-Code/MISW4202-Experimento2-Seguridad/pull/2) in [Miso-Code/MISW4202-Experimento2-Seguridad](https://github.com/Miso-Code/MISW4202-Experimento2-Seguridad)<br>
+2. ❌ Closed PR [#1](https://github.com/Miso-Code/MISW4202-Experimento2-Seguridad/pull/1) in [Miso-Code/MISW4202-Experimento2-Seguridad](https://github.com/Miso-Code/MISW4202-Experimento2-Seguridad)<br>
+3. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+4. ⬆️ Pushed 2 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+5. 🎉 Merged PR [#37](https://github.com/Miso-Code/misw4203-moviles-2023/pull/37) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+6. ⬆️ Pushed 2 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
 7. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-8. 💪 Opened PR [#138](https://github.com/cloudfoundry/binary-buildpack/pull/138) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)<br>
-9. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-10. ⬆️ Pushed 1 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+8. ❌ Closed PR [#3](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/3) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+9. 👍 Approved [#36](https://github.com/Miso-Code/misw4203-moviles-2023/pull/36#pullrequestreview-1435566084) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+10. ✔️ Closed issue [#128](https://github.com/cloudfoundry/hwc-buildpack/issues/128) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
