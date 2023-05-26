@@ -33,20 +33,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 25th, 2023, 1:06:10 AM
+Last Updated: Friday, May 26th, 2023, 1:04:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#2](https://github.com/Miso-Code/MISW4202-Experimento2-Seguridad/pull/2) in [Miso-Code/MISW4202-Experimento2-Seguridad](https://github.com/Miso-Code/MISW4202-Experimento2-Seguridad)<br>
-2. ❌ Closed PR [#1](https://github.com/Miso-Code/MISW4202-Experimento2-Seguridad/pull/1) in [Miso-Code/MISW4202-Experimento2-Seguridad](https://github.com/Miso-Code/MISW4202-Experimento2-Seguridad)<br>
-3. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-4. ⬆️ Pushed 2 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-5. 🎉 Merged PR [#37](https://github.com/Miso-Code/misw4203-moviles-2023/pull/37) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-6. ⬆️ Pushed 2 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-7. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-8. ❌ Closed PR [#3](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/3) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
-9. 👍 Approved [#36](https://github.com/Miso-Code/misw4203-moviles-2023/pull/36#pullrequestreview-1435566084) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-10. ✔️ Closed issue [#128](https://github.com/cloudfoundry/hwc-buildpack/issues/128) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)<br>
+1. 💪 Opened PR [#220](https://github.com/cloudfoundry/nginx-buildpack/pull/220) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)<br>
+2. 👍 Approved [#289](https://github.com/paketo-buildpacks/rfcs/pull/289#pullrequestreview-1444544853) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)<br>
+3. ⬆️ Pushed 1 commit(s) to [brayanhenao/github-config](https://github.com/brayanhenao/github-config)<br>
+4. ⬆️ Pushed 1 commit(s) to [brayanhenao/github-config](https://github.com/brayanhenao/github-config)<br>
+5. 💪 Opened PR [#767](https://github.com/paketo-buildpacks/github-config/pull/767) in [paketo-buildpacks/github-config](https://github.com/paketo-buildpacks/github-config)<br>
+6. 🔱 Forked [brayanhenao/github-config](https://github.com/brayanhenao/github-config) from [paketo-buildpacks/github-config](https://github.com/paketo-buildpacks/github-config)<br>
+7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+8. 🎉 Merged PR [#611](https://github.com/cloudfoundry/nodejs-buildpack/pull/611) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+9. 👍 Approved [#611](https://github.com/cloudfoundry/nodejs-buildpack/pull/611#pullrequestreview-1444299556) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+10. 🎉 Merged PR [#216](https://github.com/cloudfoundry/nginx-buildpack/pull/216) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
