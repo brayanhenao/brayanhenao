@@ -33,20 +33,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 27th, 2023, 1:07:03 AM
+Last Updated: Sunday, May 28th, 2023, 1:12:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#40](https://github.com/Miso-Code/misw4203-moviles-2023/pull/40) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
-2. ⬆️ Pushed 1 commit(s) to [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-3. 🎉 Merged PR [#370](https://github.com/cloudfoundry/staticfile-buildpack/pull/370) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-4. 👍 Approved [#370](https://github.com/cloudfoundry/staticfile-buildpack/pull/370#pullrequestreview-1446528906) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-5. 🎉 Merged PR [#373](https://github.com/cloudfoundry/staticfile-buildpack/pull/373) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-6. ⬆️ Pushed 1 commit(s) to [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-7. 👍 Approved [#373](https://github.com/cloudfoundry/staticfile-buildpack/pull/373#pullrequestreview-1446512959) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-8. ⬆️ Pushed 1 commit(s) to [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-9. ❌ Closed PR [#371](https://github.com/cloudfoundry/staticfile-buildpack/pull/371) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-10. ⬆️ Pushed 1 commit(s) to [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
+1. ✌️ Released [Entrega final](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/releases/tag/v1.0.0) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+2. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+3. ✌️ Released [v1.0.0](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/releases/tag/v1.0.0) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+4. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+5. 🎉 Merged PR [#10](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/10) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+6. 💪 Opened PR [#10](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube/pull/10) in [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+7. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+8. ⬆️ Pushed 2 commit(s) to [Miso-Code/misw4204-aplicaciones-en-la-nube](https://github.com/Miso-Code/misw4204-aplicaciones-en-la-nube)<br>
+9. ⬆️ Pushed 1 commit(s) to [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
+10. 🎉 Merged PR [#42](https://github.com/Miso-Code/misw4203-moviles-2023/pull/42) in [Miso-Code/misw4203-moviles-2023](https://github.com/Miso-Code/misw4203-moviles-2023)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
