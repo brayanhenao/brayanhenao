@@ -33,20 +33,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 15th, 2023, 1:11:53 AM
+Last Updated: Friday, June 16th, 2023, 1:12:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#286](https://github.com/paketo-buildpacks/rfcs/pull/286#pullrequestreview-1480226484) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)<br>
-2. ❌ Closed PR [#781](https://github.com/cloudfoundry/python-buildpack/pull/781) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-4. 🎉 Merged PR [#782](https://github.com/cloudfoundry/python-buildpack/pull/782) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-5. 👍 Approved [#782](https://github.com/cloudfoundry/python-buildpack/pull/782#pullrequestreview-1480164863) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-6. 👍 Approved [#123](https://github.com/paketo-buildpacks/jammy-tiny-stack/pull/123#pullrequestreview-1480161778) in [paketo-buildpacks/jammy-tiny-stack](https://github.com/paketo-buildpacks/jammy-tiny-stack)<br>
-7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)<br>
-8. 🎉 Merged PR [#86](https://github.com/cloudfoundry/switchblade/pull/86) in [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)<br>
-9. 💪 Opened PR [#86](https://github.com/cloudfoundry/switchblade/pull/86) in [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)<br>
-10. ❌ Closed PR [#76](https://github.com/cloudfoundry/switchblade/pull/76) in [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)<br>
+1. 👍 Approved [#801](https://github.com/cloudfoundry/ruby-buildpack/pull/801#pullrequestreview-1482380417) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+2. ⬆️ Pushed 3 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+3. 👍 Approved [#286](https://github.com/paketo-buildpacks/rfcs/pull/286#pullrequestreview-1480226484) in [paketo-buildpacks/rfcs](https://github.com/paketo-buildpacks/rfcs)<br>
+4. ❌ Closed PR [#781](https://github.com/cloudfoundry/python-buildpack/pull/781) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+5. ⬆️ Pushed 1 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+6. 🎉 Merged PR [#782](https://github.com/cloudfoundry/python-buildpack/pull/782) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+7. 👍 Approved [#782](https://github.com/cloudfoundry/python-buildpack/pull/782#pullrequestreview-1480164863) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+8. 👍 Approved [#123](https://github.com/paketo-buildpacks/jammy-tiny-stack/pull/123#pullrequestreview-1480161778) in [paketo-buildpacks/jammy-tiny-stack](https://github.com/paketo-buildpacks/jammy-tiny-stack)<br>
+9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)<br>
+10. 🎉 Merged PR [#86](https://github.com/cloudfoundry/switchblade/pull/86) in [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
