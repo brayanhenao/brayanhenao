@@ -33,20 +33,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 17th, 2023, 1:23:45 AM
+Last Updated: Tuesday, July 18th, 2023, 1:43:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#620](https://github.com/cloudfoundry/nodejs-buildpack/issues/620) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-2. ✔️ Closed issue [#812](https://github.com/cloudfoundry/ruby-buildpack/issues/812) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-3. ✔️ Closed issue [#791](https://github.com/cloudfoundry/python-buildpack/issues/791) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-4. ⬆️ Pushed 1 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-5. 🎉 Merged PR [#805](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/805) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-6. ⬆️ Pushed 6 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-7. 👍 Approved [#805](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/805#pullrequestreview-1527191266) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-8. ⬆️ Pushed 1 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-9. 🎉 Merged PR [#806](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/806) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-10. ⬆️ Pushed 5 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+1. ⬆️ Pushed 1 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+2. 🎉 Merged PR [#802](https://github.com/cloudfoundry/python-buildpack/pull/802) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+3. 👍 Approved [#802](https://github.com/cloudfoundry/python-buildpack/pull/802#pullrequestreview-1533749032) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+4. 👍 Approved [#296](https://github.com/cloudfoundry/buildpacks-ci/pull/296#pullrequestreview-1533689821) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+5. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+6. 🎉 Merged PR [#818](https://github.com/cloudfoundry/ruby-buildpack/pull/818) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+7. 👍 Approved [#818](https://github.com/cloudfoundry/ruby-buildpack/pull/818#pullrequestreview-1532943045) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+8. ⬆️ Pushed 2 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+10. 🎉 Merged PR [#817](https://github.com/cloudfoundry/ruby-buildpack/pull/817) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
