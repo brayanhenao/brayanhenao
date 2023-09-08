@@ -33,20 +33,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 7th, 2023, 12:12:23 AM
+Last Updated: Friday, September 8th, 2023, 12:12:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#926](https://github.com/cloudfoundry/php-buildpack/pull/926) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
-2. ✔️ Closed issue [#643](https://github.com/cloudfoundry/nodejs-buildpack/issues/643) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)<br>
-4. 🎉 Merged PR [#393](https://github.com/cloudfoundry/go-buildpack/pull/393) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)<br>
-5. 👍 Approved [#148](https://github.com/cloudfoundry/binary-buildpack/pull/148#pullrequestreview-1613911051) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)<br>
-6. ⬆️ Pushed 2 commit(s) to [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)<br>
-7. ❌ Closed PR [#237](https://github.com/cloudfoundry/r-buildpack/pull/237) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
-8. ❌ Closed PR [#95](https://github.com/cloudfoundry/switchblade/pull/95) in [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)<br>
-9. ❌ Closed PR [#832](https://github.com/cloudfoundry/ruby-buildpack/pull/832) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-10. 👍 Approved [#393](https://github.com/cloudfoundry/go-buildpack/pull/393#pullrequestreview-1613903586) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)<br>
+1. ⬆️ Pushed 1 commit(s) to [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)<br>
+2. 🎉 Merged PR [#148](https://github.com/cloudfoundry/binary-buildpack/pull/148) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)<br>
+3. ✔️ Closed issue [#141](https://github.com/cloudfoundry/hwc-buildpack/issues/141) in [cloudfoundry/hwc-buildpack](https://github.com/cloudfoundry/hwc-buildpack)<br>
+4. 💪 Opened PR [#389](https://github.com/cloudfoundry/staticfile-buildpack/pull/389) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
+5. ✔️ Closed issue [#236](https://github.com/cloudfoundry/r-buildpack/issues/236) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
+6. ✔️ Closed issue [#828](https://github.com/cloudfoundry/python-buildpack/issues/828) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+7. 🎉 Merged PR [#238](https://github.com/cloudfoundry/r-buildpack/pull/238) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
+8. ⬆️ Pushed 1 commit(s) to [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
+9. ✔️ Closed issue [#392](https://github.com/cloudfoundry/go-buildpack/issues/392) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)<br>
+10. ⬆️ Pushed 1 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
