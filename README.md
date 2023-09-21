@@ -33,20 +33,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 20th, 2023, 12:12:38 AM
+Last Updated: Thursday, September 21st, 2023, 12:12:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#649](https://github.com/cloudfoundry/nodejs-buildpack/pull/649#pullrequestreview-1634122112) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-2. ⬆️ Pushed 2 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-4. 🎉 Merged PR [#648](https://github.com/cloudfoundry/nodejs-buildpack/pull/648) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-5. 👍 Approved [#648](https://github.com/cloudfoundry/nodejs-buildpack/pull/648#pullrequestreview-1634121609) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-6. ⬆️ Pushed 1 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-7. 🎉 Merged PR [#837](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/837) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-8. 👍 Approved [#837](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/837#pullrequestreview-1634107339) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-9. 🎉 Merged PR [#834](https://github.com/cloudfoundry/ruby-buildpack/pull/834) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-10. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+1. ❌ Closed PR [#48](https://github.com/cloudfoundry/stack-auditor/pull/48) in [cloudfoundry/stack-auditor](https://github.com/cloudfoundry/stack-auditor)<br>
+2. ❌ Closed PR [#47](https://github.com/cloudfoundry/stack-auditor/pull/47) in [cloudfoundry/stack-auditor](https://github.com/cloudfoundry/stack-auditor)<br>
+3. 👍 Approved [#649](https://github.com/cloudfoundry/nodejs-buildpack/pull/649#pullrequestreview-1634122112) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+4. ⬆️ Pushed 2 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+5. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+6. 🎉 Merged PR [#648](https://github.com/cloudfoundry/nodejs-buildpack/pull/648) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+7. 👍 Approved [#648](https://github.com/cloudfoundry/nodejs-buildpack/pull/648#pullrequestreview-1634121609) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+8. ⬆️ Pushed 1 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+9. 🎉 Merged PR [#837](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/837) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+10. 👍 Approved [#837](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/837#pullrequestreview-1634107339) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
