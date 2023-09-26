@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/brayanhenao)
+![](https://komarev.com/ghpvc/?username=brayanhenao&color=red&base=1574)
 
 ## Hi there 👋
 
