@@ -21,14 +21,9 @@ Native Buildpacks Family.
 ### Some interesting Buildpacks repos
 
 [![Go BP Card](https://github-readme-stats.vercel.app/api/pin/?username=paketo-buildpacks&repo=go&show_owner=true)](https://github.com/paketo-buildpacks/go)
-[![Node BP Card](https://github-readme-stats.vercel.app/api/pin/?username=paketo-buildpacks&repo=nodejs&show_owner=true)](https://github.com/paketo-buildpacks/nodejs)
-[![Java BP Card](https://github-readme-stats.vercel.app/api/pin/?username=paketo-buildpacks&repo=java&show_owner=true)](https://github.com/paketo-buildpacks/java)
-
-### Some interesting personal repos
-
-[![Go Apigee Card](https://github-readme-stats.vercel.app/api/pin/?username=brayanhenao&repo=go-apigee-edge)](https://github.com/brayanhenao/go-apigee-edge)
-[![Competitive Programming Card](https://github-readme-stats.vercel.app/api/pin/?username=brayanhenao&repo=competitive-programming)](https://github.com/brayanhenao/competitive-programming)
-[![CVE Notifications App](https://github-readme-stats.vercel.app/api/pin/?username=brayanhenao&repo=cve-notifications-app)](https://github.com/brayanhenao/cve-notifications-app)
+[![PHP BP Card](https://github-readme-stats.vercel.app/api/pin/?username=paketo-buildpacks&repo=php&show_owner=true)](https://github.com/paketo-buildpacks/php)
+[![Python BP Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudfoundry&repo=python-buildpack&show_owner=true)](https://github.com/cloudfoundry/python-buildpack)
+[![Python BP Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudfoundry&repo=nodejs-buildpack&show_owner=true)](https://github.com/cloudfoundry/nodejs-buildpack)
 
 ## ⚡️ Recent Activity
 
