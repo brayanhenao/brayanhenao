@@ -28,20 +28,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 27th, 2023, 12:12:47 AM
+Last Updated: Thursday, September 28th, 2023, 12:12:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [brayanhenao/ux-alarma-app-web](https://github.com/brayanhenao/ux-alarma-app-web)<br>
+1. ✌️ Released [v1.0.0](https://github.com/brayanhenao/ux-alarma-app-web/releases/tag/v1.0.0) in [brayanhenao/ux-alarma-app-web](https://github.com/brayanhenao/ux-alarma-app-web)<br>
 2. ⬆️ Pushed 1 commit(s) to [brayanhenao/ux-alarma-app-web](https://github.com/brayanhenao/ux-alarma-app-web)<br>
-3. ⬆️ Pushed 1 commit(s) to [brayanhenao/ux-alarma-app-web](https://github.com/brayanhenao/ux-alarma-app-web)<br>
-4. ⬆️ Pushed 1 commit(s) to [brayanhenao/ux-alarma-app-web](https://github.com/brayanhenao/ux-alarma-app-web)<br>
-5. ⬆️ Pushed 3 commit(s) to [brayanhenao/ux-alarma-app-web](https://github.com/brayanhenao/ux-alarma-app-web)<br>
-6. 💪 Opened PR [#311](https://github.com/cloudfoundry/buildpacks-ci/pull/311) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-8. 👍 Approved [#835](https://github.com/cloudfoundry/python-buildpack/pull/835#pullrequestreview-1640295013) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-10. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+3. ⬆️ Pushed 1 commit(s) to [brayanhenao/npm-install](https://github.com/brayanhenao/npm-install)<br>
+4. ⬆️ Pushed 1 commit(s) to [brayanhenao/npm-install](https://github.com/brayanhenao/npm-install)<br>
+5. ⬆️ Pushed 1 commit(s) to [brayanhenao/npm-install](https://github.com/brayanhenao/npm-install)<br>
+6. 💪 Opened PR [#533](https://github.com/paketo-buildpacks/npm-install/pull/533) in [paketo-buildpacks/npm-install](https://github.com/paketo-buildpacks/npm-install)<br>
+7. 🔱 Forked [brayanhenao/npm-install](https://github.com/brayanhenao/npm-install) from [paketo-buildpacks/npm-install](https://github.com/paketo-buildpacks/npm-install)<br>
+8. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+9. 🎉 Merged PR [#835](https://github.com/cloudfoundry/ruby-buildpack/pull/835) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+10. ✌️ Released [v1.0.0](https://github.com/brayanhenao/ux-alarma-app-mobile/releases/tag/v1.0.0) in [brayanhenao/ux-alarma-app-mobile](https://github.com/brayanhenao/ux-alarma-app-mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
