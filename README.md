@@ -28,20 +28,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 25th, 2023, 12:12:47 AM
+Last Updated: Thursday, October 26th, 2023, 12:12:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#847](https://github.com/cloudfoundry/python-buildpack/pull/847) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-2. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-3. 🎉 Merged PR [#859](https://github.com/cloudfoundry/ruby-buildpack/pull/859) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-4. 👍 Approved [#859](https://github.com/cloudfoundry/ruby-buildpack/pull/859#pullrequestreview-1695979788) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-5. ❌ Closed PR [#393](https://github.com/cloudfoundry/staticfile-buildpack/pull/393) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-6. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)<br>
-7. 🎉 Merged PR [#244](https://github.com/cloudfoundry/nginx-buildpack/pull/244) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)<br>
-8. 👍 Approved [#244](https://github.com/cloudfoundry/nginx-buildpack/pull/244#pullrequestreview-1695622860) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)<br>
-9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-10. 🎉 Merged PR [#394](https://github.com/cloudfoundry/staticfile-buildpack/pull/394) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
+1. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+2. 🎉 Merged PR [#668](https://github.com/cloudfoundry/nodejs-buildpack/pull/668) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+4. 🎉 Merged PR [#946](https://github.com/cloudfoundry/php-buildpack/pull/946) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+5. 💪 Opened PR [#946](https://github.com/cloudfoundry/php-buildpack/pull/946) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+6. ⬆️ Pushed 1 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+7. 🎉 Merged PR [#864](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/864) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+8. 💪 Opened PR [#668](https://github.com/cloudfoundry/nodejs-buildpack/pull/668) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+9. ❌ Closed PR [#682](https://github.com/paketo-buildpacks/node-engine/pull/682) in [paketo-buildpacks/node-engine](https://github.com/paketo-buildpacks/node-engine)<br>
+10. ❌ Closed PR [#753](https://github.com/paketo-buildpacks/node-engine/pull/753) in [paketo-buildpacks/node-engine](https://github.com/paketo-buildpacks/node-engine)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
