@@ -28,19 +28,19 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 21st, 2023, 12:13:46 AM
+Last Updated: Wednesday, November 22nd, 2023, 12:14:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-2. 🎉 Merged PR [#857](https://github.com/cloudfoundry/python-buildpack/pull/857) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-3. 👍 Approved [#857](https://github.com/cloudfoundry/python-buildpack/pull/857#pullrequestreview-1740509316) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-4. ⬆️ Pushed 1 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-5. 🎉 Merged PR [#856](https://github.com/cloudfoundry/python-buildpack/pull/856) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-6. ⬆️ Pushed 5 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-7. 👍 Approved [#870](https://github.com/cloudfoundry/ruby-buildpack/pull/870#pullrequestreview-1740323887) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-8. ⬆️ Pushed 2 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-9. 👍 Approved [#856](https://github.com/cloudfoundry/python-buildpack/pull/856#pullrequestreview-1740323487) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+1. ✔️ Closed issue [#670](https://github.com/cloudfoundry/nodejs-buildpack/issues/670) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+2. ✔️ Closed issue [#167](https://github.com/cloudfoundry/apt-buildpack/issues/167) in [cloudfoundry/apt-buildpack](https://github.com/cloudfoundry/apt-buildpack)<br>
+3. ✔️ Closed issue [#861](https://github.com/cloudfoundry/ruby-buildpack/issues/861) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+4. ✔️ Closed issue [#249](https://github.com/cloudfoundry/r-buildpack/issues/249) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
+5. ✔️ Closed issue [#156](https://github.com/cloudfoundry/binary-buildpack/issues/156) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)<br>
+6. 👍 Approved [#675](https://github.com/cloudfoundry/nodejs-buildpack/pull/675#pullrequestreview-1743102535) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+8. 🎉 Merged PR [#333](https://github.com/cloudfoundry/buildpacks-ci/pull/333) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+9. 💪 Opened PR [#333](https://github.com/cloudfoundry/buildpacks-ci/pull/333) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
 10. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
 <!--RECENT_ACTIVITY:end-->
 
