@@ -28,20 +28,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 5th, 2023, 12:13:58 AM
+Last Updated: Wednesday, December 6th, 2023, 12:13:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-2. 🎉 Merged PR [#337](https://github.com/cloudfoundry/buildpacks-ci/pull/337) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-4. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-5. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-6. 💪 Opened PR [#337](https://github.com/cloudfoundry/buildpacks-ci/pull/337) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-8. 💪 Opened PR [#719](https://github.com/cloudfoundry/community/pull/719) in [cloudfoundry/community](https://github.com/cloudfoundry/community)<br>
-9. ⬆️ Pushed 1 commit(s) to [brayanhenao/community](https://github.com/brayanhenao/community)<br>
-10. ⬆️ Pushed 1 commit(s) to [brayanhenao/community](https://github.com/brayanhenao/community)<br>
+1. 👍 Approved [#414](https://github.com/cloudfoundry/go-buildpack/pull/414#pullrequestreview-1765941318) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)<br>
+2. ⬆️ Pushed 2 commit(s) to [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)<br>
+3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)<br>
+4. 🎉 Merged PR [#413](https://github.com/cloudfoundry/go-buildpack/pull/413) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)<br>
+5. 👍 Approved [#413](https://github.com/cloudfoundry/go-buildpack/pull/413#pullrequestreview-1765918922) in [cloudfoundry/go-buildpack](https://github.com/cloudfoundry/go-buildpack)<br>
+6. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+7. 🎉 Merged PR [#682](https://github.com/cloudfoundry/nodejs-buildpack/pull/682) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+8. 👍 Approved [#682](https://github.com/cloudfoundry/nodejs-buildpack/pull/682#pullrequestreview-1765385449) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+10. 🎉 Merged PR [#864](https://github.com/cloudfoundry/python-buildpack/pull/864) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
