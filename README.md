@@ -28,20 +28,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 3rd, 2024, 12:13:49 AM
+Last Updated: Thursday, January 4th, 2024, 12:13:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#258](https://github.com/cloudfoundry/nginx-buildpack/pull/258#pullrequestreview-1801169328) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)<br>
-2. 💪 Opened PR [#889](https://github.com/cloudfoundry/ruby-buildpack/pull/889) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-3. 💪 Opened PR [#341](https://github.com/cloudfoundry/buildpacks-ci/pull/341) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+1. 💪 Opened PR [#405](https://github.com/cloudfoundry/staticfile-buildpack/pull/405) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
+2. 💪 Opened PR [#891](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/891) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+3. 👍 Approved [#974](https://github.com/cloudfoundry/php-buildpack/pull/974#pullrequestreview-1803044565) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
 4. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-5. 🎉 Merged PR [#340](https://github.com/cloudfoundry/buildpacks-ci/pull/340) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-6. ⬆️ Pushed 0 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-7. 💪 Opened PR [#340](https://github.com/cloudfoundry/buildpacks-ci/pull/340) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-8. ⬆️ Pushed 3 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-9. ⬆️ Pushed 2 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-10. ⬆️ Pushed 1 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+5. 🎉 Merged PR [#343](https://github.com/cloudfoundry/buildpacks-ci/pull/343) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+6. 💪 Opened PR [#343](https://github.com/cloudfoundry/buildpacks-ci/pull/343) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+7. 👍 Approved [#258](https://github.com/cloudfoundry/nginx-buildpack/pull/258#pullrequestreview-1801169328) in [cloudfoundry/nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack)<br>
+8. 💪 Opened PR [#889](https://github.com/cloudfoundry/ruby-buildpack/pull/889) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+9. 💪 Opened PR [#341](https://github.com/cloudfoundry/buildpacks-ci/pull/341) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+10. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
