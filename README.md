@@ -28,20 +28,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 5th, 2024, 12:13:53 AM
+Last Updated: Saturday, January 6th, 2024, 12:13:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-2. 🎉 Merged PR [#346](https://github.com/cloudfoundry/buildpacks-ci/pull/346) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-3. 💪 Opened PR [#346](https://github.com/cloudfoundry/buildpacks-ci/pull/346) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-4. ✔️ Closed issue [#964](https://github.com/cloudfoundry/php-buildpack/issues/964) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
-5. ⬆️ Pushed 1 commit(s) to [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-6. 🎉 Merged PR [#405](https://github.com/cloudfoundry/staticfile-buildpack/pull/405) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
-7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-8. 🎉 Merged PR [#891](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/891) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
-9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
-10. 🎉 Merged PR [#974](https://github.com/cloudfoundry/php-buildpack/pull/974) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+1. ⬆️ Pushed 1 commit(s) to [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+2. 🎉 Merged PR [#979](https://github.com/cloudfoundry/php-buildpack/pull/979) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+3. 👍 Approved [#979](https://github.com/cloudfoundry/php-buildpack/pull/979#pullrequestreview-1806974925) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+4. ⬆️ Pushed 1 commit(s) to [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+5. 🎉 Merged PR [#978](https://github.com/cloudfoundry/php-buildpack/pull/978) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+6. 👍 Approved [#978](https://github.com/cloudfoundry/php-buildpack/pull/978#pullrequestreview-1806963727) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+7. 💪 Opened PR [#78](https://github.com/cloudfoundry/binary-builder/pull/78) in [cloudfoundry/binary-builder](https://github.com/cloudfoundry/binary-builder)<br>
+8. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+9. 🎉 Merged PR [#346](https://github.com/cloudfoundry/buildpacks-ci/pull/346) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+10. 💪 Opened PR [#346](https://github.com/cloudfoundry/buildpacks-ci/pull/346) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
