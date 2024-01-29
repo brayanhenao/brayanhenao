@@ -28,20 +28,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 28th, 2024, 12:14:41 AM
+Last Updated: Monday, January 29th, 2024, 12:13:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#888](https://github.com/cloudfoundry/ruby-buildpack/issues/888) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-2. ✔️ Closed issue [#871](https://github.com/cloudfoundry/python-buildpack/issues/871) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-4. 🎉 Merged PR [#896](https://github.com/cloudfoundry/ruby-buildpack/pull/896) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-5. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-6. 🎉 Merged PR [#691](https://github.com/cloudfoundry/nodejs-buildpack/pull/691) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-8. 🎉 Merged PR [#874](https://github.com/cloudfoundry/python-buildpack/pull/874) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-9. 👍 Approved [#691](https://github.com/cloudfoundry/nodejs-buildpack/pull/691#pullrequestreview-1816864665) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-10. ⬆️ Pushed 3 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+1. 📖 Created new wiki page [Video-de-evidencia](https://github.com/Miso-Code/sportapp/wiki/Video-de-evidencia) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+2. 📖 Created new wiki page [Acta-de-constitucion](https://github.com/Miso-Code/sportapp/wiki/Acta-de-constitucion) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+3. ✔️ Closed issue [#888](https://github.com/cloudfoundry/ruby-buildpack/issues/888) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+4. ✔️ Closed issue [#871](https://github.com/cloudfoundry/python-buildpack/issues/871) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+5. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+6. 🎉 Merged PR [#896](https://github.com/cloudfoundry/ruby-buildpack/pull/896) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+8. 🎉 Merged PR [#691](https://github.com/cloudfoundry/nodejs-buildpack/pull/691) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+10. 🎉 Merged PR [#874](https://github.com/cloudfoundry/python-buildpack/pull/874) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
