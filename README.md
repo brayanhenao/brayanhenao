@@ -28,20 +28,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 5th, 2024, 12:13:57 AM
+Last Updated: Tuesday, February 6th, 2024, 12:13:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [video-de-evidencia-semana-2](https://github.com/Miso-Code/sportapp/wiki/video-de-evidencia-semana-2) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
-2. ⬆️ Pushed 1 commit(s) to [Miso-Code/propiedades-de-los-alpes](https://github.com/Miso-Code/propiedades-de-los-alpes)<br>
-3. 📖 Created new wiki page [Video-de-evidencia](https://github.com/Miso-Code/sportapp/wiki/Video-de-evidencia) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
-4. 📖 Created new wiki page [Acta-de-constitucion](https://github.com/Miso-Code/sportapp/wiki/Acta-de-constitucion) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
-5. ✔️ Closed issue [#888](https://github.com/cloudfoundry/ruby-buildpack/issues/888) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-6. ✔️ Closed issue [#871](https://github.com/cloudfoundry/python-buildpack/issues/871) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
-7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-8. 🎉 Merged PR [#896](https://github.com/cloudfoundry/ruby-buildpack/pull/896) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
-10. 🎉 Merged PR [#691](https://github.com/cloudfoundry/nodejs-buildpack/pull/691) in [cloudfoundry/nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack)<br>
+1. 👍 Approved [#898](https://github.com/cloudfoundry/ruby-buildpack/pull/898#pullrequestreview-1863565131) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+2. ⬆️ Pushed 2 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+4. 🎉 Merged PR [#897](https://github.com/cloudfoundry/ruby-buildpack/pull/897) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+5. 👍 Approved [#897](https://github.com/cloudfoundry/ruby-buildpack/pull/897#pullrequestreview-1863564540) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+6. ❌ Closed PR [#106](https://github.com/cloudfoundry/switchblade/pull/106) in [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)<br>
+7. ❌ Closed PR [#105](https://github.com/cloudfoundry/switchblade/pull/105) in [cloudfoundry/switchblade](https://github.com/cloudfoundry/switchblade)<br>
+8. 📖 Created new wiki page [video-de-evidencia-semana-2](https://github.com/Miso-Code/sportapp/wiki/video-de-evidencia-semana-2) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+9. ⬆️ Pushed 1 commit(s) to [Miso-Code/propiedades-de-los-alpes](https://github.com/Miso-Code/propiedades-de-los-alpes)<br>
+10. 📖 Created new wiki page [Video-de-evidencia](https://github.com/Miso-Code/sportapp/wiki/Video-de-evidencia) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
