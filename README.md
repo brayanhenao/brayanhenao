@@ -28,20 +28,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 25th, 2024, 12:14:30 AM
+Last Updated: Monday, February 26th, 2024, 12:13:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-2. 🎉 Merged PR [#358](https://github.com/cloudfoundry/buildpacks-ci/pull/358) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-3. 💪 Opened PR [#358](https://github.com/cloudfoundry/buildpacks-ci/pull/358) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
-4. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-5. 🎉 Merged PR [#906](https://github.com/cloudfoundry/ruby-buildpack/pull/906) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-6. 👍 Approved [#906](https://github.com/cloudfoundry/ruby-buildpack/pull/906#pullrequestreview-1896852556) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-7. ❌ Closed PR [#907](https://github.com/cloudfoundry/ruby-buildpack/pull/907) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-8. ⬆️ Pushed 2 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
-10. 🎉 Merged PR [#905](https://github.com/cloudfoundry/ruby-buildpack/pull/905) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+1. 📖 Created new wiki page [Video-de-Evidencia-Semana-5](https://github.com/Miso-Code/sportapp/wiki/Video-de-Evidencia-Semana-5) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+2. ✔️ Closed issue [#25](https://github.com/Miso-Code/sportapp/issues/25) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+3. ✔️ Closed issue [#24](https://github.com/Miso-Code/sportapp/issues/24) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+4. ✔️ Closed issue [#22](https://github.com/Miso-Code/sportapp/issues/22) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+5. ✔️ Closed issue [#23](https://github.com/Miso-Code/sportapp/issues/23) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+6. 📖 Created new wiki page [Modelos-y-Patrones-de-Arquitectura-V2](https://github.com/Miso-Code/sportapp/wiki/Modelos-y-Patrones-de-Arquitectura-V2) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+7. 📖 Created new wiki page [Diseño-de-Experimentos-V2](https://github.com/Miso-Code/sportapp/wiki/Dise%C3%B1o-de-Experimentos-V2) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+8. 📖 Created new wiki page [Vdeo-de-Evidencia-Semana-5](https://github.com/Miso-Code/sportapp/wiki/Vdeo-de-Evidencia-Semana-5) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+9. ❗️ Opened issue [#25](https://github.com/Miso-Code/sportapp/issues/25) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
+10. ❗️ Opened issue [#24](https://github.com/Miso-Code/sportapp/issues/24) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
