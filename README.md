@@ -5,7 +5,7 @@
 <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  
 
 
-I'm Brayan, a Software Engineer based in Colombia working for [VMware](https://www.vmware.com/).
+I'm Brayan, a Software Engineer based in Colombia working for [Broadcom](https://www.broadcom.com/).
 
 - 🎓 Education
   - BS Software Engineering, ICESI University, Colombia.
@@ -15,8 +15,7 @@ I spend most of my time working on the [Paketo Buildpacks](https://paketo.io/) (
 and [Tanzu Buildpacks](https://tanzu.vmware.com/components/buildpacks) projects where I focus on improving the Cloud
 Native Buildpacks Family.
 
-- 🌱 I’m currently improving my Golang skills, since all the Buildpacks environment is written in Go.
-- 💻 In my spare time I like to solve competitive programming problems, watch series and play video games.
+- 💻 In my spare time I like to solve competitive programming problems, watch series, and play video games.
 
 ### Some interesting Buildpacks repos
 
