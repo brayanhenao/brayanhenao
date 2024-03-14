@@ -27,20 +27,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 13th, 2024, 12:13:13 AM
+Last Updated: Thursday, March 14th, 2024, 12:13:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#182](https://github.com/cloudfoundry/apt-buildpack/issues/182) in [cloudfoundry/apt-buildpack](https://github.com/cloudfoundry/apt-buildpack)<br>
-2. ✌️ Released [entrega-5](https://github.com/Miso-Code/propiedades-de-los-alpes/releases/tag/entrega-5) in [Miso-Code/propiedades-de-los-alpes](https://github.com/Miso-Code/propiedades-de-los-alpes)<br>
-3. ⬆️ Pushed 1 commit(s) to [Miso-Code/propiedades-de-los-alpes](https://github.com/Miso-Code/propiedades-de-los-alpes)<br>
-4. ✌️ Released [entrega-5](https://github.com/Miso-Code/propiedades-de-los-alpes/releases/tag/entrega-5) in [Miso-Code/propiedades-de-los-alpes](https://github.com/Miso-Code/propiedades-de-los-alpes)<br>
-5. ⬆️ Pushed 7 commit(s) to [Miso-Code/propiedades-de-los-alpes](https://github.com/Miso-Code/propiedades-de-los-alpes)<br>
-6. 🎉 Merged PR [#2](https://github.com/Miso-Code/propiedades-de-los-alpes/pull/2) in [Miso-Code/propiedades-de-los-alpes](https://github.com/Miso-Code/propiedades-de-los-alpes)<br>
-7. ⬆️ Pushed 1 commit(s) to [Miso-Code/propiedades-de-los-alpes](https://github.com/Miso-Code/propiedades-de-los-alpes)<br>
-8. ⬆️ Pushed 1 commit(s) to [cloudfoundry/apt-buildpack](https://github.com/cloudfoundry/apt-buildpack)<br>
-9. 🎉 Merged PR [#187](https://github.com/cloudfoundry/apt-buildpack/pull/187) in [cloudfoundry/apt-buildpack](https://github.com/cloudfoundry/apt-buildpack)<br>
-10. 💪 Opened PR [#2](https://github.com/Miso-Code/propiedades-de-los-alpes/pull/2) in [Miso-Code/propiedades-de-los-alpes](https://github.com/Miso-Code/propiedades-de-los-alpes)<br>
+1. ⬆️ Pushed 1 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+2. 🎉 Merged PR [#943](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/943) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+3. 👍 Approved [#943](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/943#pullrequestreview-1935219122) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+4. ⬆️ Pushed 3 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+5. ⬆️ Pushed 1 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+6. 🎉 Merged PR [#938](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/938) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+7. 👍 Approved [#938](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/938#pullrequestreview-1934944189) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+8. ⬆️ Pushed 2 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+9. ⬆️ Pushed 1 commit(s) to [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+10. 🎉 Merged PR [#896](https://github.com/cloudfoundry/python-buildpack/pull/896) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
