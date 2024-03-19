@@ -27,20 +27,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 18th, 2024, 12:14:20 AM
+Last Updated: Tuesday, March 19th, 2024, 12:13:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#42](https://github.com/Miso-Code/sportapp/issues/42) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
-2. ✔️ Closed issue [#41](https://github.com/Miso-Code/sportapp/issues/41) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
-3. ✔️ Closed issue [#40](https://github.com/Miso-Code/sportapp/issues/40) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
-4. ✔️ Closed issue [#39](https://github.com/Miso-Code/sportapp/issues/39) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
-5. ✔️ Closed issue [#38](https://github.com/Miso-Code/sportapp/issues/38) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
-6. ✔️ Closed issue [#37](https://github.com/Miso-Code/sportapp/issues/37) in [Miso-Code/sportapp](https://github.com/Miso-Code/sportapp)<br>
-7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
-8. 🎉 Merged PR [#1015](https://github.com/cloudfoundry/php-buildpack/pull/1015) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
-9. 👍 Approved [#1015](https://github.com/cloudfoundry/php-buildpack/pull/1015#pullrequestreview-1939117200) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
-10. ⬆️ Pushed 10 commit(s) to [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+1. ✔️ Closed issue [#897](https://github.com/cloudfoundry/python-buildpack/issues/897) in [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack)<br>
+2. ✔️ Closed issue [#274](https://github.com/cloudfoundry/r-buildpack/issues/274) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
+3. 👍 Approved [#1019](https://github.com/cloudfoundry/php-buildpack/pull/1019#pullrequestreview-1944293615) in [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+4. ⬆️ Pushed 4 commit(s) to [cloudfoundry/php-buildpack](https://github.com/cloudfoundry/php-buildpack)<br>
+5. ❌ Closed PR [#948](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/948) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+6. 👍 Approved [#948](https://github.com/cloudfoundry/dotnet-core-buildpack/pull/948#pullrequestreview-1943921342) in [cloudfoundry/dotnet-core-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack)<br>
+7. 👍 Approved [#915](https://github.com/cloudfoundry/ruby-buildpack/pull/915#pullrequestreview-1943634995) in [cloudfoundry/ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack)<br>
+8. ✔️ Closed issue [#172](https://github.com/cloudfoundry/binary-buildpack/issues/172) in [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)<br>
+9. ✔️ Closed issue [#416](https://github.com/cloudfoundry/staticfile-buildpack/issues/416) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)<br>
+10. 💪 Opened PR [#275](https://github.com/cloudfoundry/r-buildpack/pull/275) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
