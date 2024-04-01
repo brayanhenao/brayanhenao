@@ -27,20 +27,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 31st, 2024, 12:15:27 AM
+Last Updated: Monday, April 1st, 2024, 12:15:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
-2. ⬆️ Pushed 2 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
+2. 🎉 Merged PR [#2](https://github.com/Miso-Code/sportapp-back/pull/2) in [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
 3. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
-4. 🎉 Merged PR [#1](https://github.com/Miso-Code/sportapp-back/pull/1) in [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
-5. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
-6. 💪 Opened PR [#1](https://github.com/Miso-Code/sportapp-back/pull/1) in [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
-7. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
+4. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
+5. 💪 Opened PR [#2](https://github.com/Miso-Code/sportapp-back/pull/2) in [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
+6. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
+7. ⬆️ Pushed 3 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
 8. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
-9. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-front](https://github.com/Miso-Code/sportapp-front)<br>
-10. 🎉 Merged PR [#2](https://github.com/Miso-Code/sportapp-front/pull/2) in [Miso-Code/sportapp-front](https://github.com/Miso-Code/sportapp-front)<br>
+9. ⬆️ Pushed 2 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
+10. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
