@@ -27,20 +27,20 @@ Native Buildpacks Family.
 ## ⚡️ Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 10th, 2024, 12:14:10 AM
+Last Updated: Saturday, May 11th, 2024, 12:13:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#84](https://github.com/cloudfoundry/buildpacks-github-config/pull/84#pullrequestreview-2048328420) in [cloudfoundry/buildpacks-github-config](https://github.com/cloudfoundry/buildpacks-github-config)<br>
-2. 🎉 Merged PR [#288](https://github.com/cloudfoundry/r-buildpack/pull/288) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
-3. ⬆️ Pushed 1 commit(s) to [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
-4. ⬆️ Pushed 3 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
-5. 💪 Opened PR [#288](https://github.com/cloudfoundry/r-buildpack/pull/288) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
-6. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-front](https://github.com/Miso-Code/sportapp-front)<br>
-7. 🎉 Merged PR [#79](https://github.com/Miso-Code/sportapp-front/pull/79) in [Miso-Code/sportapp-front](https://github.com/Miso-Code/sportapp-front)<br>
-8. 💪 Opened PR [#79](https://github.com/Miso-Code/sportapp-front/pull/79) in [Miso-Code/sportapp-front](https://github.com/Miso-Code/sportapp-front)<br>
-9. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-front](https://github.com/Miso-Code/sportapp-front)<br>
-10. ⬆️ Pushed 1 commit(s) to [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
+1. ⬆️ Pushed 6 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
+2. 💪 Opened PR [#374](https://github.com/cloudfoundry/buildpacks-ci/pull/374) in [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+3. ⬆️ Pushed 2 commit(s) to [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci)<br>
+4. ✌️ Released [1.96.0](https://github.com/cloudfoundry/cflinuxfs4/releases/tag/1.96.0) in [cloudfoundry/cflinuxfs4](https://github.com/cloudfoundry/cflinuxfs4)<br>
+5. 👍 Approved [#84](https://github.com/cloudfoundry/buildpacks-github-config/pull/84#pullrequestreview-2048328420) in [cloudfoundry/buildpacks-github-config](https://github.com/cloudfoundry/buildpacks-github-config)<br>
+6. 🎉 Merged PR [#288](https://github.com/cloudfoundry/r-buildpack/pull/288) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
+7. ⬆️ Pushed 1 commit(s) to [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
+8. ⬆️ Pushed 3 commit(s) to [Miso-Code/sportapp-back](https://github.com/Miso-Code/sportapp-back)<br>
+9. 💪 Opened PR [#288](https://github.com/cloudfoundry/r-buildpack/pull/288) in [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack)<br>
+10. ⬆️ Pushed 1 commit(s) to [Miso-Code/sportapp-front](https://github.com/Miso-Code/sportapp-front)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🛠 Tech Stack
