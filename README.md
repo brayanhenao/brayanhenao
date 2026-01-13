@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Brayan Henao, a Software Engineer based in Colombia currently working as a Software Engineer II at [Deel](https://www.deel.com/). In my role, I actively contribute impactful changes to the [HR Module](https://www.deel.com/hr) in the Deel App. Company GH [Profile](https://github.com/brayan-henao-deel)
+I'm Brayan Henao, a Software Engineer based in Colombia, currently working as a Senior Software Engineer at [Deel](https://www.deel.com/). In my role, I actively contribute impactful changes to the [HR Module](https://www.deel.com/hr) in the Deel App. Company GH [Profile](https://github.com/brayan-henao-deel)
 
 I spent most of my time designing and developing robust APIs utilizing Node.js, enhancing system performance, scalability, and maintainability.
 
