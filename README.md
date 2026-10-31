@@ -54,10 +54,3 @@ As a Senior Engineer, I spend my time solving complex architectural challenges a
     <img src="https://img.shields.io/badge/🏢_View_Enterprise_Contributions_at_Deel-0690FA?style=for-the-badge&logo=github&logoColor=white" alt="Deel Enterprise Profile" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brayanhenao&show_icons=true&theme=github_dark&hide_border=true" alt="Public Repo Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanhenao&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Public Top Languages" />
-</div>
